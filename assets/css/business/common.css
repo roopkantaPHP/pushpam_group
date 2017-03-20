@@ -1,0 +1,113 @@
+
+
+
+.pushpam_bg{
+    background-color: #62C34E !important;
+}
+.sub_buttom{
+  border: 3px solid #fff;
+  border-radius:4px;
+  width:96px;
+  padding-left:19px;
+  margin-bottom:27px;
+}
+.pushpam_margin_top{
+  margin-top:36px;
+}
+ #pushpam_bg_nav2 {
+  background-color: #fff !important;
+}
+
+.active a{
+color: #62C34E !important;
+background-color: #fff !important;
+}
+
+.pushpam_text_green{
+  color: #62C34E !important;
+
+}
+.pushpam_text_white{
+  color: #fff !important;
+
+}
+
+
+.user_border{
+    border: 1px solid #e0e0e0;
+}
+
+.pushpam_width{
+  width:100%;
+  padding: 1% 0% 2% 18%;
+}
+
+.pushpam_team_width{
+  width:78%;
+  margin-left:17%;
+
+}
+.social_site_width{
+  width:79%;
+  margin-left:14%;
+  padding-top:39px;
+
+}
+.team_font_size{
+  font-size: 23px;
+  word-wrap: break-word;
+  margin-left: 79px !important;
+}
+
+.happyuser{
+  margin-left:32px;
+  margin-top:-24px;
+}
+footer{
+  padding-top: 20px !important;
+  background-color:#fff !important;
+
+}
+.social{
+      margin: 20px auto auto;
+}
+.fa-facebook ,.fa-twitter, .fa-linkedin, .fa-youtube {
+  color:grey;
+}
+
+.fa-envelope ,.fa-phone, .fa-map-marker{
+  color:#62C34E;
+
+}
+.contact{
+  padding-top:35px;
+  margin-top:48px;
+}
+.email_contact{
+  display: inline-flex;
+  padding: 4px 0px 0px 11px;
+  margin-left:26px;
+  margin-top: -18px;
+
+}
+.phone{
+  margin-top: 10px;
+}
+.pushpam-form{
+  background-color: #62C34E !important;
+}
+#first_name, #last_name,#email, #company_name, #textarea1{
+  background-color: #fff;
+}
+
+
+
+
+
+  /*li {
+      border-right: 1px solid #bbb;
+  }
+
+  li:last-child {
+      border-right: none;
+  }*/
