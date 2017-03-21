@@ -6,9 +6,11 @@
   <META HTTP-EQUIV="Content-Language" CONTENT="fr-FR">
   <META name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
-   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="<?php echo base_url('assets/css/business/common.css');?>" rel="stylesheet">
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
+  <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
   <!-- <nav id="pushpam_background_nav1">
    <div class="nav-wrapper">
      <form>
@@ -28,9 +30,12 @@
 
   <nav id="pushpam_bg_nav2" class=" border">
    <div class="nav-wrapper">
-     <a id="logo-container" href="#" class="brand-logo"><object id="front-page-logo" class="responsive-img" data="assets/images/test/logo.png" style="width:4%; margin-left:1%"></object></a>
+     <!-- <a id="logo-container" href="<?php echo base_url(); ?>" class="brand-logo"> -->
+       <object id="front-page-logo" class="responsive-img" data="assets/images/test/logo.png" style="width:4%; margin-left:1%">
+       </object>
+     <!-- </a> -->
      <ul id="nav-mobile"  class="right hide-on-med-and-down">
-       <li class="active"><a href="/"><b>Home</b></a></li>
+       <li class="active"><a href="<?php echo base_url(); ?>"><b>Home</b></a></li>
        <li><a class="black-text" href="<?php echo base_url("about_us.html"); ?>">About Us</a></li>
        <li><a class="black-text" href="collapsible.html">Business</a></li>
        <li><a class="black-text" href="collapsible.html">Future Thought</a></li>
@@ -41,4 +46,4 @@
      <!-- <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="mdi-navigation-menu"></i></a> -->
    </div>
   </nav>
-</head><body>
+</head>
