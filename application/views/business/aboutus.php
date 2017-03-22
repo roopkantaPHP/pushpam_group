@@ -45,7 +45,7 @@
     <h4 class="pushpam_text_green">PUSHPAM GROUP TIMELINE</h4>
     <img class ="grey lighten-3 " src="assets/images/test/icon_jpg.jpg" alt=""></img>
 
-    <div class="col l12 m12 s12 offset-m2 l6 offset-l3 founder">
+    <div class="col l12 m12 s12 offset-m2 l6 offset-l3 founder_moz founder_chrome">
         <div class="row valign-wrapper">
           <div class="col l5 m5 s5 founder_sub">
             <div class="row">
@@ -63,7 +63,7 @@
             </span>
           </div>
         </div>
-        <img  src="assets/images/business/green_arrow.png" alt="" class="circle responsive-img green_arrow"> </img>
+        <img  src="assets/images/business/green_arrow.png" alt="" class="circle responsive-img green_arrow_moz green_arrow_chrome"> </img>
     </div>
 
 
@@ -110,22 +110,54 @@ Laid the foundation for Pushpam Flora Base
 </section>
 </div>
   <div class="container icon-block center happy_team">
-      <h4 class="pushpam_text_green">Our Happy Team</h4>
+      <h4 class="pushpam_text_green col s12">Our Happy Team</h4>
       <img class ="grey lighten-3 " src="assets/images/test/icon_jpg.jpg" alt=""></img>
       <div class="para1"><b>
-        The group is a 2 decade old multinational organization operating across Real Estate, Agro business, Floriculture, Trading, Hospitality, Healthcare and Education. The group strives to create meaningful living spaces, improve human well-being and empower through power of knowledge, health, wellness and happiness. 
+        The group is a 2 decade old multinational organization operating across Real Estate, Agro business, Floriculture, Trading, Hospitality, Healthcare and Education. The group strives to create meaningful living spaces, improve human well-being and empower through power of knowledge, health, wellness and happiness.
       </b>
       </div>
   </div>
+  <div class="row pushpam_team_width">
+    <div class="col l12 s12 m12">
+      <div class="col l3 m3 s3">
+        <div class="material-placeholder">
+          <img src="assets/images/test/m1.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Wilson </p><p>GM - Sales</p>
+        </div>
+      </div>
+      <div class="col l3 m3 s3">
+        <div class="material-placeholder">
+          <img src="assets/images/test/m2.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Krishna Murthy </p><p>Account Manager</p>
+        </div>
+      </div>
+      <div class="col l3 m3 s3">
+        <div class="material-placeholder">
+          <img src="assets/images/test/m3.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Vijay Krishna </p><p>Purshase Manager</p>
+        </div>
+      </div>
+      <div class="col l3 m3 s3">
+          <div class="material-placeholder">
+            <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p>Shweta Arora</p><p>Human Resource</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row center social_site_width">
+      <div class="col l12 m12 s12">
+        <div class="col l3 m3 s3">
+          <i class="fa fa-facebook fa-3x fa-fw"></i>
+        </div>
+        <div class="col l3 m3 s3">
+          <i class="fa fa-twitter fa-3x fa-fw"></i>
+        </div>
+        <div class="col l3 m3 s3">
+            <i class="fa fa-Linkedin fa-3x fa-fw"></i>
+        </div>
+          <div class="col l3 m3 s3">
+            <i class="fa fa-youtube fa-3x fa-fw"></i>
+          </div>
+        </div>
+    </div>
   </body>
   <script>
-  function isElementInViewport(el) {
-  var rect = el.getBoundingClientRect();
-  return (
-    rect.top >= 0 &&
-    rect.left >= 0 &&
-    rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
-    rect.right <= (window.innerWidth || document.documentElement.clientWidth)
-  );
-}
+
   </script>

@@ -35,15 +35,17 @@
        </object>
      <!-- </a> -->
      <ul id="nav-mobile"  class="right hide-on-med-and-down">
-       <li class="active"><a href="<?php echo base_url(); ?>"><b>Home</b></a></li>
-       <li><a class="black-text" href="<?php echo base_url("about_us.html"); ?>">About Us</a></li>
-       <li><a class="black-text" href="collapsible.html">Business</a></li>
-       <li><a class="black-text" href="collapsible.html">Future Thought</a></li>
-       <li><a class="black-text" href="collapsible.html">Investors</a></li>
-       <li><a class="black-text" href="collapsible.html">Media</a></li>
-       <li><a class="black-text" href="collapsible.html">Contact</a></li>
+       <li class="active tabbuttons"><a href="<?php echo base_url(); ?>"><b>Home</b></a></li>
+       <li><a class="black-text tabbuttons" href="<?php echo base_url("about_us.html"); ?>">About Us</a></li>
+       <li><a class="black-text tabbuttons" href="<?php echo base_url("business.html"); ?>">Business</a></li>
+       <li><a class="black-text tabbuttons" href="<?php echo base_url("future.html"); ?>">Future Thought</a></li>
+       <li><a class="black-text tabbuttons" href="<?php echo base_url("investors.html"); ?>">Investors</a></li>
+       <li><a class="black-text tabbuttons" href="<?php echo base_url("media.html"); ?>">Media</a></li>
+       <li><a class="black-text tabbuttons" href="<?php echo base_url("contact.html"); ?>">Contact</a></li>
      </ul>
      <!-- <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="mdi-navigation-menu"></i></a> -->
    </div>
   </nav>
+  <script>
+  </script>
 </head>

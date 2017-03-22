@@ -4,6 +4,7 @@ class Foundation extends CI_Controller{
       parent::__construct();
   }
   public function index(){
-
+    $data['contents']='business/foundation';
+    $this->load->view('template', $data);
   }
 }

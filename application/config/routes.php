@@ -41,6 +41,12 @@
 $route['default_controller'] = "homepage";
 $route['404_override'] = '';
 $route['about_us.html'] = 'business/aboutus';
+$route['business.html'] = 'business/business';
+$route['future.html'] = 'business/future';
+$route['investors.html'] = 'business/investors';
+$route['media.html'] = 'business/media';
+$route['contact.html'] = 'business/contact';
+
 
 
 /* End of file routes.php */

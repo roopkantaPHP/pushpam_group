@@ -4,6 +4,7 @@ class Corporate extends CI_Controller{
       parent::__construct();
   }
   public function index(){
-
+    $data['contents']='business/corporate';
+    $this->load->view('template', $data);
   }
 }
