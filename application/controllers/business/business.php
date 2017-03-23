@@ -6,6 +6,7 @@ class Business extends CI_Controller{
 
   public function index(){
     $data['contents']='business/business';
+    $data['page'] = 3;
     $this->load->view('template', $data);
   }
 }

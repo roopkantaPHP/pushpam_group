@@ -5,6 +5,7 @@ class Media extends CI_Controller{
   }
   public function index(){
     $data['contents']='business/media';
+    $data['page'] = 6;
     $this->load->view('template', $data);
   }
 }

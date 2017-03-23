@@ -5,6 +5,7 @@ class Future extends CI_Controller{
   }
   public function index(){
     $data['contents']='business/future';
+    $data['page'] = 4;
     $this->load->view('template', $data);
   }
 }

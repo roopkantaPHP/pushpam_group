@@ -5,6 +5,7 @@ class Corporate extends CI_Controller{
   }
   public function index(){
     $data['contents']='business/corporate';
+    $data['page'] = 5;
     $this->load->view('template', $data);
   }
 }

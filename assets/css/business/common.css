@@ -2,7 +2,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) /*google chrome*/
 {
   .green_arrow_chrome{
-  margin-top: -49px;
+  margin-top: -48px;
   z-index:2;
   }
   .founder_chrome{
@@ -11,16 +11,14 @@
   margin-left: 33%;
   margin-top: 3%;
   border-radius: 6px;
-  height: 17%;
+  height: 12%;
 
   }
 }
-.tabs{
-  width: none !important;
-}
+
 @-moz-document url-prefix() {/*firefox*/
   .green_arrow_moz{
-  margin-top: -59px;
+  margin-top: -50px;
   z-index:2;
   }
   .founder_moz{
@@ -29,7 +27,7 @@
   margin-left: 33%;
   margin-top: 3%;
   border-radius: 6px;
-  height: 22%;
+  height: 12%;
 
   }
 }
@@ -52,9 +50,10 @@
   background-color: #fff !important;
 }
 
-.active a{
+.menu_pus li.active a{
 color: #62C34E !important;
 background-color: #fff !important;
+font-weight: bold
 }
 
 .pushpam_text_green{
@@ -247,6 +246,7 @@ section{
   color: #62C34E !important;
 
 }
+
 
 .media_pushpam .indicator{
   background-color: #62C34E !important;

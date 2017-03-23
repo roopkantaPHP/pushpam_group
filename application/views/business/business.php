@@ -33,7 +33,7 @@ The group of industries dealing with agricultural produce and services required 
   <div class="row">
     <div class="col l4 m4 s4">   <img class="rig-img" src="assets/images/business/agri-business.png"><p>The group of industries dealing with agricultural produce and services required in fanning. </p></div>
     <div class="col l4 m4 s4">   <img class="rig-img" src="assets/images/business/building-materials.png"><p>Agriculture conducted on strictly commercial principles an organization engaged in agribusiness. </p></div>
-    <div class="col l4 m4 s4">  <img class="rig-img" src="assets/images/business/construction.png"><p>Agriculture conducted on strictly commercial principles an organization engaged in agribusiness. </p></div>
+    <div class="col l4 m4 s4">   <a target="_blank"href="http://www.pushpamgroup.in/residential"><img class="rig-img" src="assets/images/business/construction.png"></img></a><p>Agriculture conducted on strictly commercial principles an organization engaged in agribusiness. </p></div>
     <!-- <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/design-studio.png"><p>Hospitality</p></div> -->
   </div>
 </div>

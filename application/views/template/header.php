@@ -34,18 +34,16 @@
        <object id="front-page-logo" class="responsive-img" data="assets/images/test/logo.png" style="width:4%; margin-left:1%">
        </object>
      <!-- </a> -->
-     <ul id="nav-mobile"  class="right hide-on-med-and-down">
-       <li class="active tabbuttons"><a href="<?php echo base_url(); ?>"><b>Home</b></a></li>
-       <li><a class="black-text tabbuttons" href="<?php echo base_url("about_us.html"); ?>">About Us</a></li>
-       <li><a class="black-text tabbuttons" href="<?php echo base_url("business.html"); ?>">Business</a></li>
-       <li><a class="black-text tabbuttons" href="<?php echo base_url("future.html"); ?>">Future Thought</a></li>
-       <li><a class="black-text tabbuttons" href="<?php echo base_url("investors.html"); ?>">Investors</a></li>
-       <li><a class="black-text tabbuttons" href="<?php echo base_url("media.html"); ?>">Media</a></li>
-       <li><a class="black-text tabbuttons" href="<?php echo base_url("contact.html"); ?>">Contact</a></li>
+     <ul id="nav-mobile"  class="right hide-on-med-and-down menu_pus">
+       <li class="<?php if($page == 1){echo "active";}else{ echo "";}?>"><a class="black-text tabbuttons"  href="<?php echo base_url(); ?>">Home</a></li>
+       <li class="<?php if($page == 2){echo "active";}else{ echo "";}?>"><a class="black-text tabbuttons" href="<?php echo base_url("about_us.html"); ?>">About Us</a></li>
+       <li class="<?php if($page == 3){echo "active";}else{ echo "";}?>"><a class="black-text tabbuttons" href="<?php echo base_url("business.html"); ?>">Business</a></li>
+       <li class="<?php if($page == 4){echo "active";}else{ echo "";}?>"><a class="black-text tabbuttons" href="<?php echo base_url("future.html"); ?>">Future Thought</a></li>
+       <li class="<?php if($page == 5){echo "active";}else{ echo "";}?>"><a class="black-text tabbuttons" href="<?php echo base_url("investors.html"); ?>">Investors</a></li>
+       <li class="<?php if($page == 6){echo "active";}else{ echo "";}?>"><a class="black-text tabbuttons" href="<?php echo base_url("media.html"); ?>">Media</a></li>
+       <li class="<?php if($page == 7){echo "active";}else{ echo "";}?>"><a class="black-text tabbuttons" href="<?php echo base_url("contact.html"); ?>">Contact</a></li>
      </ul>
      <!-- <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="mdi-navigation-menu"></i></a> -->
    </div>
   </nav>
-  <script>
-  </script>
 </head>

@@ -2,28 +2,28 @@
 <div class="slider">
    <ul class="slides">
      <li>
-       <img src="http://lorempixel.com/580/250/nature/1"> <!-- random image -->
+       <img src="assets/images/main/home1.jpg"> <!-- random image -->
        <div class="caption center-align">
          <h3>This is our big Tagline!</h3>
          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
        </div>
      </li>
      <li>
-       <img src="http://lorempixel.com/580/250/nature/2"> <!-- random image -->
+       <img src="assets/images/main/home2.jpg"> <!-- random image -->
        <div class="caption left-align">
          <h3>Left Aligned Caption</h3>
          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
        </div>
      </li>
      <li>
-       <img src="http://lorempixel.com/580/250/nature/3"> <!-- random image -->
+       <img src="assets/images/main/home3.jpg"> <!-- random image -->
        <div class="caption right-align">
          <h3>Right Aligned Caption</h3>
-         <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+         <h5 class="light grey-text text-lighten-">Here's our small slogan.</h5>
        </div>
      </li>
      <li>
-       <img src="http://lorempixel.com/580/250/nature/4"> <!-- random image -->
+       <img src="assets/images/main/home4.jpg"> <!-- random image -->
        <div class="caption center-align">
          <h3>This is our big Tagline!</h3>
          <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
@@ -42,21 +42,21 @@
   </div>
   <div class="pushpam_width row">
     <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/agri-business.png"><p>Agribusiness</p></div>
-    <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/building-materials.png"><p>Construction</p></div>
-    <div class="col l3 m3 s3">  <img class="rig-img" src="assets/images/business/construction.png"><p>Real Estate</p></div>
-    <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/design-studio.png"><p>Hospitality</p></div>
+    <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/construction.png"><p>Construction</p></div>
+    <div class="col l3 m3 s3">  <img class="rig-img" src="assets/images/business/real-estate.png"><p>Real Estate</p></div>
+    <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/hospitality.png"><p>Hospitality</p></div>
   </div>
   <div class=" pushpam_width row">
-    <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/education.png"><p>IT</p></div>
-    <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/engineering.png"><p>Education</p></div>
-    <div class="col l3 m3 s3">  <img class="rig-img" src="assets/images/business/fmcg.png"><p>Healthcare</p></div>
-    <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/healthcare.png"><p>Design Studio</p></div>
+    <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/it.png"><p>IT</p></div>
+    <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/education.png"><p>Education</p></div>
+    <div class="col l3 m3 s3">  <img class="rig-img" src="assets/images/business/healthcare.png"><p>Healthcare</p></div>
+    <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/design-studio.png"><p>Design Studio</p></div>
   </div>
   <div class="pushpam_width row">
-    <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/hospitality.png"><p>Building Materials/p></div>
-    <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/it.png"><p>Supply Chain & Warehousing</p></div>
-    <div class="col l3 m3 s3">  <img class="rig-img" src="assets/images/business/real-estate.png"><p>FMCG</p></div>
-    <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/supplychain.png"><p>Engineering & Technical</p></div>
+    <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/building-materials.png"><p>Building Materials/p></div>
+    <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/supplychain.png"><p>Supply Chain & Warehousing</p></div>
+    <div class="col l3 m3 s3">  <img class="rig-img" src="assets/images/business/fmcg.png"><p>FMCG</p></div>
+    <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/engineering.png"><p>Engineering & Technical</p></div>
   </div>
   <div class="row user_border">
     <div class="pushpam_width follower">
@@ -70,7 +70,9 @@
     <div class="col l12 s12 m12">
       <div class="icon-block center">
         <h4 class="header center pushpam_text_green">OUR HAPPY TEAM</h4>
-          <img class ="grey lighten-3 " src="assets/images/test/icon_jpg.jpg" alt="">
+          <!-- <a href="#model_team" class> -->
+            <img class ="grey lighten-3" src="assets/images/test/icon_jpg.jpg" alt=""></img>
+          <!-- </a> -->
               <!-- <h2 class="center brown-text"><i class="material-icons">flash_on</i></h2> -->
           <label class="header col l12 m12 s12 light team_font_size">Dummy content  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
               laudantium, totam aperiam, eaque ipsa quae ab illo inventore.</label>

@@ -5,6 +5,7 @@ class Foundation extends CI_Controller{
   }
   public function index(){
     $data['contents']='business/foundation';
+    $data['page'] = 6;
     $this->load->view('template', $data);
   }
 }

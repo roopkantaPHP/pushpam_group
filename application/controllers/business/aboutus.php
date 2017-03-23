@@ -7,6 +7,7 @@ class Aboutus extends CI_Controller{
   public function index(){
 
     $data['contents'] = 'business/aboutus';
+    $data['page'] = 2;
     $this->load->view('template', $data);
   }
 }

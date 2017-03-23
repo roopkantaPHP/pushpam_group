@@ -15,6 +15,7 @@ class Homepage extends CI_Controller {
         // $this->build_content($toView);
         //  $this->load->view('pages/homepage',true);
          $data['contents']  = 'pages/homepage';
+         $data['page'] = 1;
          $this->load->view('template', $data);
 
         // $this->render_page();

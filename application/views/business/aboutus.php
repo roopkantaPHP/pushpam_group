@@ -121,7 +121,7 @@ Laid the foundation for Pushpam Flora Base
     <div class="col l12 s12 m12">
       <div class="col l3 m3 s3">
         <div class="material-placeholder">
-          <img src="assets/images/test/m1.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Wilson </p><p>GM - Sales</p>
+          <img src="assets/images/test/m1.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"></img><p> Wilson </p><p>GM - Sales</p>
         </div>
       </div>
       <div class="col l3 m3 s3">
@@ -157,7 +157,16 @@ Laid the foundation for Pushpam Flora Base
           </div>
         </div>
     </div>
-  </body>
-  <script>
+    <!-- Modal Trigger -->
+<a class="waves-effect waves-light btn" href="#modal1">Modal</a>
 
-  </script>
+<!-- Modal Structure -->
+<div id="modal1" class="modal">
+  <div class="modal-content">
+    <h4>Modal Header</h4>
+    <p>A bunch of text</p>
+  </div>
+  <div class="modal-footer">
+    <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
+  </div>
+</div>

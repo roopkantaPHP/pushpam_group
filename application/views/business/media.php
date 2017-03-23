@@ -78,7 +78,6 @@ The group is a 20 year old multinational organization operating across Real Esta
   </div>
 
 <div class="row center social_site_width icon-block center">
-
   <div class="row center social_site_width icon-block center">
     <div class="col l12 m12 s12">
       <div class="col l3 m3 s3">
@@ -95,17 +94,11 @@ The group is a 20 year old multinational organization operating across Real Esta
         </div>
       </div>
   </div>
-  <script>
+  <!-- <script>
   $(document).ready(function(){
-
       $('.parallax').parallax();
-
-
       $('ul.tabs').tabs('select_tab', 'tab_id');
-
-
-
   });
-  </script>
+  </script> -->
 </body>
 </html>

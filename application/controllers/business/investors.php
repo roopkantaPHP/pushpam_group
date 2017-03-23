@@ -5,6 +5,7 @@ class Investors extends CI_Controller{
   }
   public function index(){
     $data['contents']='business/investors';
+    $data['page'] = 5;
     $this->load->view('template', $data);
   }
 }

@@ -37,4 +37,12 @@
       </div>
     </div>
   </footer>
+  <script>
+  $(document).ready(function(){
+      $('.parallax').parallax();
+      $('ul.tabs').tabs('select_tab', 'tab_id');
+  });
+
+  </script>
+</body>
 </html>
