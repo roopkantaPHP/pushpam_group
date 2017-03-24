@@ -15,13 +15,13 @@
         <div class="col l4 m4 s12">
           <h5> <b> Menu </b></h5>
           <ul>
-            <li><label>Home</label></li>
-            <li><label>About Us</label></li>
-            <li><label>Business</label></li>
-            <li><label>Future Thought</label></li>
-            <li><label>Investors </label></li>
-            <li><label>Media </label></li>
-            <li><label>Contact </label></li>
+            <li><label><a href="<?php echo base_url(); ?>" class="pushpam_text_green">Home</a></label></li>
+            <li><label><a href="<?php echo base_url("about_us.html"); ?>" class="pushpam_text_green">About Us</a></label></li>
+            <li><label><a href="<?php echo base_url("business.html"); ?>" class="pushpam_text_green">Business</a></label></li>
+            <li><label><a href="<?php echo base_url("future.html"); ?>" class="pushpam_text_green">Future Thought</a></label></li>
+            <li><label><a href="<?php echo base_url("investors.html"); ?>" class="pushpam_text_green">Investors </a></label></li>
+            <li><label><a href="<?php echo base_url("media.html"); ?>" class="pushpam_text_green">Media </a></label></li>
+            <li><label><a href="<?php echo base_url("contact.html"); ?>" class="pushpam_text_green">Contact </a></label></li>
           </ul>
         </div>
         <div class="col l4 m4 s12">

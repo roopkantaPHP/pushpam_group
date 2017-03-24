@@ -1,11 +1,11 @@
 <body>
 <div class="parallax-container">
-      <div class="parallax"><img src="http://lorempixel.com/580/250/nature/4">
+      <div class="parallax"><img src="<?php echo $image; ?>">
       </div>
 </div>
 <div class="container icon-block center happy_team">
-    <h4 class="pushpam_text_green col s12">AGRI BUSINESS</h4>
-    <img class ="grey lighten-3 " src="assets/images/test/icon_jpg.jpg" alt=""></img>
+    <h4 class="pushpam_text_green col s12"><?PHP echo $business_name; ?></h4>
+    <img class ="grey lighten-3 " src="assets/images/main/underline.png" alt=""></img>
     <div class="para2"><b>
       The group is a 20 year old multinational organization operating across Real Estate,
       Agro business, Floriculture, Trading, Hospitality, Healthcare and Education.
@@ -32,40 +32,48 @@ The group of industries dealing with agricultural produce and services required 
 <div class="para2">
   <div class="row">
     <div class="col l4 m4 s4">   <img class="rig-img" src="assets/images/business/agri-business.png"><p>The group of industries dealing with agricultural produce and services required in fanning. </p></div>
-    <div class="col l4 m4 s4">   <img class="rig-img" src="assets/images/business/building-materials.png"><p>Agriculture conducted on strictly commercial principles an organization engaged in agribusiness. </p></div>
+    <div class="col l4 m4 s4">   <img class="rig-img" src="assets/images/business/building_materials.png"><p>Agriculture conducted on strictly commercial principles an organization engaged in agribusiness. </p></div>
     <div class="col l4 m4 s4">   <a target="_blank"href="http://www.pushpamgroup.in/residential"><img class="rig-img" src="assets/images/business/construction.png"></img></a><p>Agriculture conducted on strictly commercial principles an organization engaged in agribusiness. </p></div>
     <!-- <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/design-studio.png"><p>Hospitality</p></div> -->
   </div>
 </div>
 </div>
 <div>
-  <div class="para2 container icon-block center">
-<div class="row">
+  <div class="container icon-block center ">
+<div class=" ">
   <div class="col l12 s12 m12">
     <div class="icon-block center">
       <h4 class="header center pushpam_text_green">OUR BUSINESS</h4>
-      <img class ="grey lighten-3 " src="assets/images/test/icon_jpg.jpg" alt="">
+      <img class ="grey lighten-3 " src="assets/images/main/underline.png" alt="">
     </div>
   </div>
 </div>
-<div class="row">
-  <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/agri-business.png"><p>Agribusiness</p></div>
-  <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/building-materials.png"><p>Construction</p></div>
-  <div class="col l3 m3 s3">  <img class="rig-img" src="assets/images/business/construction.png"><p>Real Estate</p></div>
-  <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/design-studio.png"><p>Hospitality</p></div>
+
+
+
+<div class="para2 row">
+  <div class="col l3 m3 s3"><a href="<?php echo base_url("business.html?busi=agri"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/agri-business.png"><p>Agribusiness</p></a></div>
+  <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=con"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/construction.png"><p>Construction</p></a></div>
+  <div class="col l3 m3 s3">  <a href="<?php echo base_url("business.html?busi=real"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/real-estate.png"><p>Real Estate</p></a></div>
+  <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=hos"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/hospitality.png"><p>Hospitality</p></a></div>
 </div>
-<div class=" row">
-  <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/education.png"><p>IT</p></div>
-  <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/engineering.png"><p>Education</p></div>
-  <div class="col l3 m3 s3">  <img class="rig-img" src="assets/images/business/fmcg.png"><p>Healthcare</p></div>
-  <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/healthcare.png"><p>Design Studio</p></div>
+<div class=" para2 row">
+  <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=it"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/it.png"><p>IT</p></a></div>
+  <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=edu"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/education.png"><p>Education</p></a></div>
+  <div class="col l3 m3 s3">  <a href="<?php echo base_url("business.html?busi=heal"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/healthcare.png"><p>Healthcare</p></a></div>
+  <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=des"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/design-studio.png"><p>Design Studio</p></a></div>
 </div>
-<div class="row">
-  <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/hospitality.png"><p>Building Materials/p></div>
-  <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/it.png"><p>Supply Chain & Warehousing</p></div>
-  <div class="col l3 m3 s3">  <img class="rig-img" src="assets/images/business/real-estate.png"><p>FMCG</p></div>
-  <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/supplychain.png"><p>Engineering & Technical</p></div>
+<div class="para2 row">
+  <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=buil"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/building_materials.png"><p>Building Materials</p></a></div>
+  <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=supp"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/supplychain.png"><p>Supply Chain & Warehousing</p></a></div>
+  <div class="col l3 m3 s3">  <a href="<?php echo base_url("business.html?busi=fmcg"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/fmcg.png"><p>FMCG</p></a></div>
+  <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=eng"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/engineering.png"><p>Engineering & Technical</p></a></div>
 </div>
+
+
+
+
+
 
 </div>
 <div class="row center social_site_width icon-block center">

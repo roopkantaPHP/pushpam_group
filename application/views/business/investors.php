@@ -1,11 +1,11 @@
 <body>
 <div class="parallax-container">
-      <div class="parallax"><img src="http://lorempixel.com/580/250/nature/4">
+      <div class="parallax"><img src="assets/images/main/investors.jpg">
       </div>
 </div>
 <div class="container icon-block center happy_team">
     <h4 class="pushpam_text_green col s12">GIVING BACK</h4>
-    <img class ="grey lighten-3 " src="assets/images/test/icon_jpg.jpg" alt=""></img>
+    <img class ="grey lighten-3 " src="assets/images/main/underline.png" alt=""></img>
     <div class="para2"><b>
     Pushpam Group, under Pushpam Foundation has consistently sought to give back to the society to the best of its ability. Till date, it has adopted several rural schools and has made a difference in the lives of thousands of children. Each member of the organization holds a deep passion for philantrophy and we have taken our biggest step yet, in the process, by working towards the development of a hospital & medical college which we will bring healthcare delivery to the large population that desperately needs it as well as quality education in the field of medicine that is well within the reach of most students.
       <!-- </ul> -->

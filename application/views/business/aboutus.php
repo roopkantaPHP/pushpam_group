@@ -2,7 +2,7 @@
     <body>
     <div class="container icon-block center">
       <h4 class="pushpam_text_green">SUCCESS STORIES</h4>
-        <img class ="grey lighten-3 " src="assets/images/test/icon_jpg.jpg" alt=""></img>
+        <img class ="grey lighten-3 " src="assets/images/main/underline.png" alt=""></img>
         <div class="para1"><b>
           The group is a 20 year old multinational organization operating across Real Estate, Agro business, Floriculture, Trading, Hospitality, Healthcare and Education. The group strives to create meaningful living spaces, improve human well-being and empower through power of knowledge, health, wellness and happiness.
         </b>
@@ -43,9 +43,9 @@
 
 <div class="container icon-block center">
     <h4 class="pushpam_text_green">PUSHPAM GROUP TIMELINE</h4>
-    <img class ="grey lighten-3 " src="assets/images/test/icon_jpg.jpg" alt=""></img>
+    <img class ="grey lighten-3 " src="assets/images/main/underline.png" alt=""></img>
 
-    <div class="col l12 m12 s12 offset-m2 l6 offset-l3 founder_moz founder_chrome">
+    <div class="col l12 m12 s12 offset-m2 l6 offset-l3 founder_moz founder_640 founder_chrome">
         <div class="row valign-wrapper">
           <div class="col l5 m5 s5 founder_sub">
             <div class="row">
@@ -72,33 +72,39 @@
 <section class="timeline">
   <ul>
     <li>
-      <div class="z-depth-4">
-        <i class="fa fa-lightbulb-o" aria-hidden="true"></i>
+      <div class="z-depth-4 UpperTitle">
+        <img src="assets/images/icons/bulb.png"></img>
+        <!-- <i class="fa fa-lightbulb-o" aria-hidden="true"></i> -->
         <time>1993</time>
 Laid the foundation for Pushpam Flora Base
       </div>
     </li>
     <li>
-      <div class="z-depth-4">
+      <div class="z-depth-4 UpperTitle">
+        <img src="assets/images/icons/flower.png"></img>
         <time>2004</time>
         Largest exporter of fresh flowers in India
       </div>
     </li>
     <li>
-      <div class="z-depth-4">
-        <i class="fa fa-building-o" aria-hidden="true"></i><time>2010</time>
+      <div class="z-depth-4 UpperTitle">
+        <img src="assets/images/icons/build.png"></img>
+        <!-- <i class="fa fa-building-o" aria-hidden="true"></i> -->
+        <time>2010</time>
       Launch our first real estate project Pushpalok
       </div>
     </li>
     <li>
-      <div class="z-depth-4">
+      <div class="z-depth-4 UpperTitle">
+          <img src="assets/images/icons/imera.png"></img>
         <time>2014</time>
         Opened the doors of our first resort - Imera
       </div>
     </li>
     <li>
-      <div class="z-depth-4">
-          <i class="fa 	fa fa-user-md" aria-hidden="true"></i>
+      <div class="z-depth-4 UpperTitle">
+          <img src="assets/images/icons/science.png"></img>
+          <!-- <i class="fa 	fa fa-user-md" aria-hidden="true"></i> -->
         <time>2016</time>
       Approval of Puspam School of Medicine
       </div>
@@ -111,34 +117,39 @@ Laid the foundation for Pushpam Flora Base
 </div>
   <div class="container icon-block center happy_team">
       <h4 class="pushpam_text_green col s12">Our Happy Team</h4>
-      <img class ="grey lighten-3 " src="assets/images/test/icon_jpg.jpg" alt=""></img>
+      <img class ="grey lighten-3 " src="assets/images/main/underline.png" alt=""></img>
       <div class="para1"><b>
         The group is a 2 decade old multinational organization operating across Real Estate, Agro business, Floriculture, Trading, Hospitality, Healthcare and Education. The group strives to create meaningful living spaces, improve human well-being and empower through power of knowledge, health, wellness and happiness.
       </b>
       </div>
   </div>
-  <div class="row pushpam_team_width">
+  <div class="row pushpam_team_width center">
     <div class="col l12 s12 m12">
-      <div class="col l3 m3 s3">
+      <div class="col l2 m2 s2">
         <div class="material-placeholder">
           <img src="assets/images/test/m1.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"></img><p> Wilson </p><p>GM - Sales</p>
         </div>
       </div>
-      <div class="col l3 m3 s3">
+      <div class="col l2 m2 s2">
         <div class="material-placeholder">
           <img src="assets/images/test/m2.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Krishna Murthy </p><p>Account Manager</p>
         </div>
       </div>
-      <div class="col l3 m3 s3">
+      <div class="col l2 m2 s2">
         <div class="material-placeholder">
           <img src="assets/images/test/m3.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Vijay Krishna </p><p>Purshase Manager</p>
         </div>
       </div>
-      <div class="col l3 m3 s3">
+      <div class="col l2 m2 s2">
           <div class="material-placeholder">
             <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p>Shweta Arora</p><p>Human Resource</p>
           </div>
         </div>
+        <div class="col l2 m2 s2">
+            <div class="material-placeholder">
+              <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p>Akshay M Reddy</p><p>Managing Director</p>
+            </div>
+          </div>
       </div>
     </div>
     <div class="row center social_site_width">
@@ -158,10 +169,10 @@ Laid the foundation for Pushpam Flora Base
         </div>
     </div>
     <!-- Modal Trigger -->
-<a class="waves-effect waves-light btn" href="#modal1">Modal</a>
+<!-- <a class="waves-effect waves-light btn" href="#modal1">Modal</a> -->
 
 <!-- Modal Structure -->
-<div id="modal1" class="modal">
+<!-- <div id="modal1" class="modal">
   <div class="modal-content">
     <h4>Modal Header</h4>
     <p>A bunch of text</p>
@@ -169,4 +180,4 @@ Laid the foundation for Pushpam Flora Base
   <div class="modal-footer">
     <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
   </div>
-</div>
+</div> -->

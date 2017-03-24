@@ -13,27 +13,184 @@ The group is a 20 year old multinational organization operating across Real Esta
   </div>
 <div class="row container icon-block center">
     <ul id="tabs-swipe-demo" class="tabs media_pushpam">
-      <li class="tab col s3"><a class="active" href="#test-swipe-1">Press Coverage</a></li>
-      <li class="tab col s3"><a href="#test-swipe-2">Social Media Feed</a></li>
-      <li class="tab col s3"><a href="#test-swipe-3">Videos</a></li>
-      <li class="tab col s3"><a href="#test-swipe-4">News Magazine</a></li>
+      <li class="tab col l4 m4 s4"><a class="active" href="#test-swipe-1">Press Coverage</a></li>
+      <!-- <li class="tab col s3"><a href="#test-swipe-2">Social Media Feed</a></li> -->
+      <li class="tab col l4 m4 s4"><a href="#test-swipe-3">Videos</a></li>
+      <li class="tab col l4 m4 s4"><a href="#test-swipe-4">News Magazine</a></li>
     </ul>
 
     <div id="test-swipe-1" class="col s12 l12 m12">
       <div class="row">
-      <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/agri-business.png"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div>
-      <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/building-materials.png"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div>
-      <div class="col l3 m3 s3">  <img class="rig-img" src="assets/images/business/construction.png"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div>
-      <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/design-studio.png"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div>
+<div class="col l3 m3 s3">
+        <!-- <img class="rig-img" src="assets/images/press_coverage/01.jpg">
+        <p>Pushpam Group Best Winner</p>
+        <label>2016 Awards</label>
+        <label>Tue, 14th Feb 2016</label> -->
+  <div class="row">
+   <div class="col s12 m6">
+     <div class="card">
+       <div class="card-image">
+         <img src="assets/images/press_coverage/01.jpg">
+         <span class="card-title">Card Title</span>
+         <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+       </div>
+       <!-- <div class="card-content"> -->
+         <p>Pushpam Group Best Winner</p>
+         <label>2016 Awards</label>
+         <label>Tue, 14th Feb 2016</label>
+       <!-- </div> -->
+     </div>
+   </div>
+ </div>
+</div>
+
+<div class="col l3 m3 s3">
+        <!-- <img class="rig-img" src="assets/images/press_coverage/02.jpg"> -->
+        <!-- <p>Pushpam Group Best Winner</p>
+        <label>2016 Awards</label>
+        <label>Tue, 14th Feb 2016</label>. -->
+  <div class="row">
+   <div class="col s12 m6">
+     <div class="card">
+       <div class="card-image">
+         <img src="assets/images/press_coverage/02.jpg">
+         <span class="card-title">Card Title</span>
+         <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+       </div>
+       <!-- <div class="card-content"> -->
+         <p>Pushpam Group Best Winner</p>
+         <label>2016 Awards</label>
+         <label>Tue, 14th Feb 2016</label>
+       <!-- </div> -->
+     </div>
+   </div>
+ </div>
+</div>
+
+<div class="col l3 m3 s3">
+  <div class="row">
+   <div class="col s12 m6">
+     <div class="card">
+       <div class="card-image">
+         <img src="assets/images/press_coverage/03.jpg">
+         <span class="card-title">Card Title</span>
+         <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+       </div>
+       <!-- <div class="card-content"> -->
+         <p>Pushpam Group Best Winner</p>
+         <label>2016 Awards</label>
+         <label>Tue, 14th Feb 2016</label>
+       <!-- </div> -->
+     </div>
+   </div>
+ </div>
+</div>
+<div class="col l3 m3 s3">
+  <div class="row">
+   <div class="col s12 m6">
+     <div class="card">
+       <div class="card-image">
+         <img src="assets/images/press_coverage/04.jpg">
+         <span class="card-title">Card Title</span>
+         <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+       </div>
+       <!-- <div class="card-content"> -->
+         <p>Pushpam Group Best Winner</p>
+         <label>2016 Awards</label>
+         <label>Tue, 14th Feb 2016</label>
+       <!-- </div> -->
+     </div>
+   </div>
+ </div>
+</div>
+      <!-- <div class="col l3 m3 s3">  <img class="rig-img" src="assets/images/press_coverage/03.jpg"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div> -->
+      <!-- <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/press_coverage/04.jpg"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div> -->
       </div>
       <div class="row">
-        <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/education.png"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div>
-        <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/engineering.png"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div>
-        <div class="col l3 m3 s3">  <img class="rig-img" src="assets/images/business/fmcg.png"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div>
-        <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/healthcare.png"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div>
+        <div class="col l3 m3 s3">
+          <div class="row">
+           <div class="col s12 m6">
+             <div class="card">
+               <div class="card-image">
+                 <img src="assets/images/press_coverage/05.jpg">
+                 <span class="card-title">Card Title</span>
+                 <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+               </div>
+               <!-- <div class="card-content"> -->
+                 <p>Pushpam Group Best Winner</p>
+                 <label>2016 Awards</label>
+                 <label>Tue, 14th Feb 2016</label>
+               <!-- </div> -->
+             </div>
+           </div>
+         </div>
+        </div>
+
+
+        <div class="col l3 m3 s3">
+          <div class="row">
+           <div class="col s12 m6">
+             <div class="card">
+               <div class="card-image">
+                 <img src="assets/images/press_coverage/06.jpg">
+                 <span class="card-title">Card Title</span>
+                 <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+               </div>
+               <!-- <div class="card-content"> -->
+                 <p>Pushpam Group Best Winner</p>
+                 <label>2016 Awards</label>
+                 <label>Tue, 14th Feb 2016</label>
+               <!-- </div> -->
+             </div>
+           </div>
+         </div>
+        </div>
+
+        <div class="col l3 m3 s3">
+          <div class="row">
+           <div class="col s12 m6">
+             <div class="card">
+               <div class="card-image">
+                 <img src="assets/images/press_coverage/07.jpg">
+                 <span class="card-title">Card Title</span>
+                 <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+               </div>
+               <!-- <div class="card-content"> -->
+                 <p>Pushpam Group Best Winner</p>
+                 <label>2016 Awards</label>
+                 <label>Tue, 14th Feb 2016</label>
+               <!-- </div> -->
+             </div>
+           </div>
+         </div>
+        </div>
+
+        <div class="col l3 m3 s3">
+          <div class="row">
+           <div class="col s12 m6">
+             <div class="card">
+               <div class="card-image">
+                 <img src="assets/images/press_coverage/08.jpg">
+                 <span class="card-title">Card Title</span>
+                 <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
+               </div>
+               <!-- <div class="card-content"> -->
+                 <p>Pushpam Group Best Winner</p>
+                 <label>2016 Awards</label>
+                 <label>Tue, 14th Feb 2016</label>
+               <!-- </div> -->
+             </div>
+           </div>
+         </div>
+        </div>
+
+        <!-- <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/press_coverage/05.jpg"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div>
+        <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/press_coverage/06.jpg"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div>
+        <div class="col l3 m3 s3">  <img class="rig-img" src="assets/images/press_coverage/07.jpg"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div>
+        <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/press_coverage/08.jpg"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div> -->
       </div>
     </div>
-    <div id="test-swipe-2" class="col s12 l12 m12">
+    <!-- <div id="test-swipe-2" class="col s12 l12 m12">
       <div class="row">
         <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/hospitality.png"><p>Building Materials/p></div>
         <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/it.png"><p>Supply Chain & Warehousing</p></div>
@@ -46,7 +203,7 @@ The group is a 20 year old multinational organization operating across Real Esta
         <div class="col l3 m3 s3">  <img class="rig-img" src="assets/images/business/fmcg.png"><p>Healthcare</p></div>
         <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/healthcare.png"><p>Design Studio</p></div>
       </div>
-    </div>
+    </div> -->
     <div id="test-swipe-3" class="col s12 l12 m12">
       <div class="row">
       <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/agri-business.png"><p>Agribusiness</p></div>

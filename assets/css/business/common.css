@@ -14,6 +14,37 @@
   height: 12%;
 
   }
+  .team_font_size{
+    font-size: 23px;
+    word-wrap: break-word;
+    margin-left: 79px !important;
+  }
+}
+@media only screen and (min-width: 640px) {
+  .mobile_margin{
+    margin-left: 15px !important;
+    font-size: 23px;
+  word-wrap: break-word;
+  }
+
+  .pushpam_team_width_640 {
+    width: 78% !important;
+    margin-left: 9% !important;
+}
+.pushpam_team_width_640{
+  width: 86% !important;
+  padding: 1% 0% 2% 0% !important;
+}
+.founder_640{
+width: 58%;
+border: 2px solid #62C34E;
+margin-left: 21%;
+margin-top: 2%;
+border-radius: 6px;
+height: 17%;
+
+}
+
 }
 
 @-moz-document url-prefix() {/*firefox*/
@@ -30,10 +61,16 @@
   height: 12%;
 
   }
+  .team_font_size{
+    font-size: 23px;
+    word-wrap: break-word;
+    margin-left: 79px !important;
+  }
 }
 
 .pushpam_bg{
     background-color: #62C34E !important;
+
 }
 
 .sub_buttom{
@@ -81,17 +118,15 @@ font-weight: bold
 .social_site_width{
   width:102%;
   margin-left:-1%;
-  padding-top:11px;
+  padding-top:13px;
   padding-bottom: 27px;
   margin-top:auto;
   border-bottom: 2px solid #B0B0B0;
+  border-top: 2px solid #B0B0B0;
+  margin-top:-15px;
 
 }
-.team_font_size{
-  font-size: 23px;
-  word-wrap: break-word;
-  margin-left: 79px !important;
-}
+
 
 .happyuser{
   margin-left:32px;
@@ -106,7 +141,7 @@ footer{
       margin: 20px auto auto;
 }
 .fa-facebook ,.fa-twitter, .fa-linkedin, .fa-youtube {
-  color:grey;
+  color:#DDDDDD;
 }
 
 .fa-envelope ,.fa-phone, .fa-map-marker, .fa-lightbulb-o, .fa-building-o, .fa-user-md{
@@ -249,6 +284,24 @@ section{
 
 
 .media_pushpam .indicator{
-  background-color: #62C34E !important;
+  background-color: #fff !important;
 
 }
+
+.media_pushpam{
+  margin-right: 19px;
+margin-left: -96px;
+margin-bottom: 48px;
+}
+.UpperTitle
+{
+    text-align: center;
+    padding: 40px 0;
+    background-color: #CEDEF4;
+    font-weight:bold;
+    /*color: #224499;*/
+    border-radius: 10px;
+    position: rela1tive;
+
+}
+.UpperTitle img { position: absolute; left: -5px; top: 2px;width: 39px; }
