@@ -17,7 +17,7 @@
     Good hospital facilities have always been in demand for the large population of India. A hospital of 450 bed capacity will be set up at Chikkaballapura city well connected by road (NH 7), for a total distance of 72 km from Bangalore. The hospital is also very near to Bangalore International Airport. The hospital will be equipped with modern medical equipment and will offer excellent services for the patients suffering from different diseases.
 
     </div>
-    <h4 class="pushpam_text_green col s12">VISSION</h4>
+    <h4 class="pushpam_text_green col s12">VISION</h4>
     <img class ="grey lighten-3 " src="assets/images/main/underline.png" alt=""></img>
     <div class="para2"><b>
       The group aims to work toward the betterment of education and healthcare sectors especially in the rural areas. It is already providing scholarships to the needy and has adopted schools. The Foundation constantly endeavors to contribute as meaningfully as possible towards social development and enrichment of the society. The hospital will have a hierarchy of objectives, viz. Service, Training and Research. The most important objective for which the hospital will make all out effort will be to provide high quality service at an affordable cost not only for the affluent sections of the society, but also to those who may not be economically well off. The outpatient services will be provided on the concept of polyclinics and referral clinics.

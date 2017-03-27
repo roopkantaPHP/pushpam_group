@@ -32,7 +32,7 @@
    </ul>
 </div>
 <div>
-  <div class="row para1 container icon-block center">
+  <div class="row para1  icon-block center">
     <div class="col l12 s12 m12">
       <div class="icon-block center">
         <h4 class="header center pushpam_text_green">OUR BUSINESS</h4>
@@ -40,19 +40,19 @@
       </div>
     </div>
   </div>
-  <div class="para1 container icon-block center row">
+  <div class="para1 icon-block center row">
     <div class="col l3 m3 s3"><a href="<?php echo base_url("business.html?busi=agri"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/agri-business.png"><p>Agribusiness</p></a></div>
     <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=con"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/construction.png"><p>Construction</p></a></div>
     <div class="col l3 m3 s3">  <a href="<?php echo base_url("business.html?busi=real"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/real-estate.png"><p>Real Estate</p></a></div>
     <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=hos"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/hospitality.png"><p>Hospitality</p></a></div>
   </div>
-  <div class=" para1 container icon-block center row">
+  <div class=" para1 icon-block center row">
     <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=it"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/it.png"><p>IT</p></a></div>
     <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=edu"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/education.png"><p>Education</p></a></div>
     <div class="col l3 m3 s3">  <a href="<?php echo base_url("business.html?busi=heal"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/healthcare.png"><p>Healthcare</p></a></div>
     <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=des"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/design-studio.png"><p>Design Studio</p></a></div>
   </div>
-  <div class="para1 container icon-block center row">
+  <div class="para1 icon-block center row">
     <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=buil"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/building_materials.png"><p>Building Materials</p></a></div>
     <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=supp"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/supplychain.png"><p>Supply Chain & Warehousing</p></a></div>
     <div class="col l3 m3 s3">  <a href="<?php echo base_url("business.html?busi=fmcg"); ?>" class="pushpam_text_green"><img class="rig-img" src="assets/images/business/fmcg.png"><p>FMCG</p></a></div>
@@ -66,7 +66,7 @@
       <div class="col l3 m3 s12">  <i class="material-icons">comment</i><h5 class="happyuser">4865</h5><p>Answered Questions </p></div>
     </div>
   </div>
-  <div class="para1 container icon-block center row mobile_margin">
+  <div class="para1 icon-block center row mobile_margin">
     <div class="col l12 s12 m12">
       <div class="icon-block center">
         <h4 class="header center pushpam_text_green mobile_text_margin">MANAGEMENT TEAM</h4>
@@ -75,7 +75,9 @@
           <!-- </a> -->
               <!-- <h2 class="center brown-text"><i class="material-icons">flash_on</i></h2> -->
           <label class="header col l12 m12 s12 light team_font_size mobile_margin">Dummy content  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-              laudantium, totam aperiam, eaque ipsa quae ab illo inventore.</label>
+              laudantium, totam aperiam, eaque ipsa quae ab illo inventore.Dummy content  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
+                  laudantium, totam aperiam, eaque ipsa quae ab illo inventore.Dummy content  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
+                      laudantium, totam aperiam, eaque ipsa quae ab illo inventore.</label>
       </div>
     </div>
   </div>
