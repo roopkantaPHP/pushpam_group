@@ -81,26 +81,31 @@
   </div>
   <div class="row pushpam_team_width pushpam_team_width_640">
     <div class="col l12 s12 m12">
-      <div class="col l3 s3 m3">
+      <div class="col l2 m2 s2">
         <div class="material-placeholder">
           <img src="assets/images/test/m1.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Veena RS </p><p>Managing director</p>
         </div>
       </div>
-      <div class="col l3 m3 s3">
+      <div class="col l2 m2 s2">
         <div class="material-placeholder">
           <img src="assets/images/test/m2.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Dr. Manjunath Reddy </p><p>CEO</p>
         </div>
       </div>
-      <div class="col l3 m3 s3">
+      <div class="col l2 m2 s2">
         <div class="material-placeholder">
           <img src="assets/images/test/m3.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Abhiram M </p><p>Managing Director</p>
         </div>
       </div>
-      <div class="col l3 m3 s3">
+      <div class="col l2 m2 s2">
           <div class="material-placeholder">
-            <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Radha R S </p><p>Purchase Manager</p>
+            <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p>Akshay M Reddy </p><p>Managing Director</p>
           </div>
         </div>
+        <div class="col l2 m2 s2">
+            <div class="material-placeholder">
+              <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Radha R S </p><p>Purchase Manager</p>
+            </div>
+          </div>
       </div>
     </div>
   </div>

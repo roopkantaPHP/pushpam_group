@@ -1,7 +1,7 @@
 <body>
 <div class="container icon-block center">
   <h4 class="pushpam_text_green">CONTACT WITH US</h4>
-    <img class ="grey lighten-3 " src="assets/images/test/icon_jpg.jpg" alt=""></img>
+    <img class ="grey lighten-3 " src="assets/images/main/underline.png" alt=""></img>
     <div class="para2"><b>
       Pushpam Group, under Pushpam Foundation has consistently sought to give back to the society to the best of its ability. Till date, it has adopted several rural schools and has made a difference in the lives of thousands of children. Each member of the organization holds a Geld of medicine that is well within the reach of most students.
 
@@ -13,30 +13,61 @@
     <div class="col l12 s12 m12">
       <div class="col l4 s4 m4">
         <div class="material-placeholder">
-          <img src="assets/images/test/m1.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Veena RS </p><p>Managing director</p>
+           <img src="assets/images/contact/india.jpg" class="materialboxed responsive-img z-depth-1 initialized contact_img"  alt="Unsplashed background img 1"><p style="text-align:left !important;"><b>India</b><br>
+           <span>#29 (old no. 416)</span>
+           <br>
+           <span>18th Main,4 T Block</span><br>Jayanagar, Bangalore 560041
+
+         </p><br>
+         <button class="map_button">View on map</button>
         </div>
       </div>
       <div class="col l4 s4 m4">
         <div class="material-placeholder">
-          <img src="assets/images/test/m2.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Dr. Manjunath Reddy </p><p>CEO</p>
+          <img src="assets/images/contact/usa.jpg" class="materialboxed responsive-img z-depth-1 initialized contact_img"  alt="Unsplashed background img 1"><p style="text-align:left !important;"><b>USA</b><br>
+          <span>#29 (old no. 416) </span>
+          <br>
+          <span>18th Main,4 T Block</span><br>Jayanagar, Bangalore 560041
+
+        </p><br>
+        <button class="map_button">View on map</button>
         </div>
       </div>
       <div class="col l4 s4 m4">
         <div class="material-placeholder">
-          <img src="assets/images/test/m3.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Abhiram M </p><p>Managing Director</p>
+          <img src="assets/images/contact/london.jpg" class="materialboxed responsive-img z-depth-1 initialized contact_img"  alt="Unsplashed background img 1"><p style="text-align:left !important;"><b>London</b><br>
+          <span>#29 (old no. 416) </span>
+          <br>
+          <span>18th Main,4 T Block</span><br>Jayanagar, Bangalore 560041
+        </p><br>
+        <button class="map_button">View on map</button>
         </div>
       </div>
+      </div>
+      <div  class="row para2 col l12 s12 m12">
       <div class="col l4 s4 m4">
           <div class="material-placeholder">
-            <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Radha R S </p><p>Purchase Manager</p>
+            <img src="assets/images/contact/uae.jpg" class="materialboxed responsive-img z-depth-1 initialized contact_img"  alt="Unsplashed background img 1"><p style="text-align:left !important;"><b>UAE</b><br>
+            <span>#29 (old no. 416) </span>
+            <br>
+            <span>18th Main,4 T Block</span><br>Jayanagar, Bangalore 560041
+          </p><br>
+          <button class="map_button">View on map</button>
           </div>
         </div>
         <div class="col l4 s4 m4">
             <div class="material-placeholder">
-              <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Radha R S </p><p>Purchase Manager</p>
+              <img src="assets/images/contact/southafrica.jpg" class="materialboxed responsive-img z-depth-1 initialized contact_img"  alt="Unsplashed background img 1"><p style="text-align:left !important;"><b>South Africa</b><br>
+              <span><strong>#29 (old no. 416) </strong></span>
+              <br>
+              <span>18th Main,4 T Block</span> <br>Jayanagar, Bangalore 560041
+            </p><br>
+          <button class="map_button">View on map</button>
             </div>
           </div>
-      </div>
+        </div>
+
+
     </div>
     <div class="pushpam_border pushpam-form center">
       <div class="message">

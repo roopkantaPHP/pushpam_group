@@ -31,7 +31,7 @@ class Business extends CI_Controller{
       break;
       case'edu':
         $image_name = "EDUCATION";
-        $business_name ="AGRI BUSINESS";
+        $business_name ="Education";
       break;
       case'heal':
         $image_name = "healthcare";

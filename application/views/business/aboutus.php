@@ -45,7 +45,7 @@
     <h4 class="pushpam_text_green">PUSHPAM GROUP TIMELINE</h4>
     <img class ="grey lighten-3 " src="assets/images/main/underline.png" alt=""></img>
 
-    <div class="col l12 m12 s12 offset-m2 l6 offset-l3 founder_moz founder_640 founder_chrome">
+    <div class="col l12 m12 s12 offset-m2 l6 offset-l3 founder_moz founder_chrome">
         <div class="row valign-wrapper">
           <div class="col l5 m5 s5 founder_sub">
             <div class="row">
@@ -125,31 +125,31 @@ Laid the foundation for Pushpam Flora Base
   </div>
   <div class="row pushpam_team_width center">
     <div class="col l12 s12 m12">
-      <div class="col l2 m2 s2">
+      <div class="col l3 m3 s3">
         <div class="material-placeholder">
           <img src="assets/images/test/m1.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"></img><p> Wilson </p><p>GM - Sales</p>
         </div>
       </div>
-      <div class="col l2 m2 s2">
+      <div class="col l3 m3 s3">
         <div class="material-placeholder">
           <img src="assets/images/test/m2.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Krishna Murthy </p><p>Account Manager</p>
         </div>
       </div>
-      <div class="col l2 m2 s2">
+      <div class="col l3 m3 s3">
         <div class="material-placeholder">
           <img src="assets/images/test/m3.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p> Vijay Krishna </p><p>Purshase Manager</p>
         </div>
       </div>
-      <div class="col l2 m2 s2">
+      <div class="col l3 m3 s3">
           <div class="material-placeholder">
             <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p>Shweta Arora</p><p>Human Resource</p>
           </div>
         </div>
-        <div class="col l2 m2 s2">
+        <!-- <div class="col l2 m2 s2">
             <div class="material-placeholder">
               <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><p>Akshay M Reddy</p><p>Managing Director</p>
             </div>
-          </div>
+          </div> -->
       </div>
     </div>
     <div class="row center social_site_width">

@@ -1,6 +1,6 @@
 <body>
 <div class="parallax-container">
-      <div class="parallax"><img src="http://lorempixel.com/580/250/nature/4">
+      <div class="parallax"><img src="assets/images/main/media.jpg">
       </div>
 </div>
 <div class="container icon-block center happy_team">
@@ -20,176 +20,113 @@ The group is a 20 year old multinational organization operating across Real Esta
     </ul>
 
     <div id="test-swipe-1" class="col s12 l12 m12">
-      <div class="row">
-<div class="col l3 m3 s3">
-        <!-- <img class="rig-img" src="assets/images/press_coverage/01.jpg">
-        <p>Pushpam Group Best Winner</p>
-        <label>2016 Awards</label>
-        <label>Tue, 14th Feb 2016</label> -->
-  <div class="row">
-   <div class="col s12 m6">
-     <div class="card">
-       <div class="card-image">
-         <img src="assets/images/press_coverage/01.jpg">
-         <span class="card-title">Card Title</span>
-         <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
-       </div>
-       <!-- <div class="card-content"> -->
-         <p>Pushpam Group Best Winner</p>
-         <label>2016 Awards</label>
-         <label>Tue, 14th Feb 2016</label>
-       <!-- </div> -->
-     </div>
-   </div>
- </div>
+      <div class="col l3 m3 s3">
+<div class="coverage">
+  <a href="assets/images/press_coverage/01.jpg" class="zoom tooltip" rel="prettyPhoto[gallery]">
+  <div style="position:relative;"><img src="assets/images/press_coverage/01.jpg" width="188" height="255">
+  <img src="assets/images/icons/zoom.png" alt="" style="position:absolute; width:33px; height:33px; top:0px; right:0px;  padding:0px; border:none;" width="33" height="33" border="0"></div>
+  <span></span>
+  <p style="text-align:left !important;">Pushpam Group Best Winner <br>
+  <span><strong>2016 Awards</strong></span>
+  <br>
+  <span>Tue, 14<sup>th</sup> Feb 2017 </span>
+  </p></a>
 </div>
-
-<div class="col l3 m3 s3">
-        <!-- <img class="rig-img" src="assets/images/press_coverage/02.jpg"> -->
-        <!-- <p>Pushpam Group Best Winner</p>
-        <label>2016 Awards</label>
-        <label>Tue, 14th Feb 2016</label>. -->
-  <div class="row">
-   <div class="col s12 m6">
-     <div class="card">
-       <div class="card-image">
-         <img src="assets/images/press_coverage/02.jpg">
-         <span class="card-title">Card Title</span>
-         <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
-       </div>
-       <!-- <div class="card-content"> -->
-         <p>Pushpam Group Best Winner</p>
-         <label>2016 Awards</label>
-         <label>Tue, 14th Feb 2016</label>
-       <!-- </div> -->
-     </div>
-   </div>
- </div>
-</div>
-
-<div class="col l3 m3 s3">
-  <div class="row">
-   <div class="col s12 m6">
-     <div class="card">
-       <div class="card-image">
-         <img src="assets/images/press_coverage/03.jpg">
-         <span class="card-title">Card Title</span>
-         <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
-       </div>
-       <!-- <div class="card-content"> -->
-         <p>Pushpam Group Best Winner</p>
-         <label>2016 Awards</label>
-         <label>Tue, 14th Feb 2016</label>
-       <!-- </div> -->
-     </div>
-   </div>
- </div>
 </div>
 <div class="col l3 m3 s3">
-  <div class="row">
-   <div class="col s12 m6">
-     <div class="card">
-       <div class="card-image">
-         <img src="assets/images/press_coverage/04.jpg">
-         <span class="card-title">Card Title</span>
-         <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
-       </div>
-       <!-- <div class="card-content"> -->
-         <p>Pushpam Group Best Winner</p>
-         <label>2016 Awards</label>
-         <label>Tue, 14th Feb 2016</label>
-       <!-- </div> -->
-     </div>
-   </div>
- </div>
+<div class="coverage">
+<a href="assets/images/press_coverage/02.jpg" class="zoom tooltip" rel="prettyPhoto[gallery]">
+<div style="position:relative;"><img src="assets/images/press_coverage/02.jpg" width="188" height="255">
+<img src="assets/images/icons/zoom.png" alt="" style="position:absolute; width:33px; height:33px; top:0px; right:0px;  padding:0px; border:none;" width="33" height="33" border="0"></div>
+<span></span>
+<p style="text-align:left !important;">Pushpam Group Best Winner<br>
+<span><strong>National</strong></span>
+<br>
+<span>Tue, 14<sup>th</sup> Feb 2017 </span>
+</p></a>
 </div>
-      <!-- <div class="col l3 m3 s3">  <img class="rig-img" src="assets/images/press_coverage/03.jpg"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div> -->
-      <!-- <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/press_coverage/04.jpg"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div> -->
-      </div>
-      <div class="row">
-        <div class="col l3 m3 s3">
-          <div class="row">
-           <div class="col s12 m6">
-             <div class="card">
-               <div class="card-image">
-                 <img src="assets/images/press_coverage/05.jpg">
-                 <span class="card-title">Card Title</span>
-                 <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
-               </div>
-               <!-- <div class="card-content"> -->
-                 <p>Pushpam Group Best Winner</p>
-                 <label>2016 Awards</label>
-                 <label>Tue, 14th Feb 2016</label>
-               <!-- </div> -->
-             </div>
-           </div>
-         </div>
-        </div>
+</div>
+<div class="col l3 m3 s3">
+<div class="coverage">
+<a href="assets/images/press_coverage/03.jpg" class="zoom tooltip" rel="prettyPhoto[gallery]">
+<div style="position:relative;"><img src="assets/images/press_coverage/03.jpg" width="188" height="255">
+<img src="assets/images/icons/zoom.png" alt="" style="position:absolute; width:33px; height:33px; top:0px; right:0px;  padding:0px; border:none;" width="33" height="33" border="0"></div>
+<span></span>
+<p style="text-align:left !important;">Pushpam Group Best Winner<br>
+<span><strong>National</strong></span>
+<br>
+<span>Tue, 14<sup>th</sup> Feb 2017 </span>
+</p></a>
+</div>
+</div>
+<div class="col l3 m3 s3">
+<div class="coverage">
+<a href="assets/images/press_coverage/04.jpg" class="zoom tooltip" rel="prettyPhoto[gallery]">
+<div style="position:relative;"><img src="assets/images/press_coverage/04.jpg" width="188" height="255">
+<img src="assets/images/icons/zoom.png" alt="" style="position:absolute; width:33px; height:33px; top:0px; right:0px;  padding:0px; border:none;" width="33" height="33" border="0"></div>
+<span></span>
+<p style="text-align:left !important;">Pushpam Group Best Winner <br>
+<span><strong>National</strong></span>
+<br>
+<span>Tue, 14<sup>th</sup> Feb 2017 </span>
+</p></a>
+</div>
+</div>
+<div class="col l3 m3 s3">
+<div class="coverage">
+<a href="assets/images/press_coverage/05.jpg" class="zoom tooltip" rel="prettyPhoto[gallery]">
+<div style="position:relative;"><img src="assets/images/press_coverage/05.jpg" width="188" height="255">
+<img src="assets/images/icons/zoom.png" alt="" style="position:absolute; width:33px; height:33px; top:0px; right:0px;  padding:0px; border:none;" width="33" height="33" border="0"></div>
+<span></span>
+<p style="text-align:left !important;">Pushpam Group Best Winner <br>
+<span><strong>National</strong></span>
+<br>
+<span>Tue, 14<sup>th</sup> Feb 2017 </span>
+</p></a>
+</div>
+</div>
+<div class="col l3 m3 s3">
+<div class="coverage">
+<a href="assets/images/press_coverage/06.jpg" class="zoom tooltip" rel="prettyPhoto[gallery]">
+<div style="position:relative;"><img src="assets/images/press_coverage/06.jpg" width="188" height="255">
+<img src="assets/images/icons/zoom.png" alt="" style="position:absolute; width:33px; height:33px; top:0px; right:0px;  padding:0px; border:none;" width="33" height="33" border="0"></div>
+<span></span>
+<p style="text-align:left !important;">Pushpam Group Best Winner<br>
+<span><strong>National</strong></span>
+<br>
+<span>Tue, 14<sup>th</sup> Feb 2017 </span>
+</p></a>
+</div>
+</div>
+<div class="col l3 m3 s3">
+<div class="coverage">
+<a href="assets/images/press_coverage/07.jpg" class="zoom tooltip" rel="prettyPhoto[gallery]">
+<div style="position:relative;"><img src="assets/images/press_coverage/07.jpg" width="188" height="255">
+<img src="assets/images/icons/zoom.png" alt="" style="position:absolute; width:33px; height:33px; top:0px; right:0px;  padding:0px; border:none;" width="33" height="33" border="0"></div>
+<span></span>
+<p style="text-align:left !important;">Pushpam Group Best Winner<br>
+<span><strong>National</strong></span>
+<br>
+<span>Tue, 14<sup>th</sup> Feb 2017 </span>
+</p></a>
+</div>
+</div>
+<div class="col l3 m3 s3">
+<div class="coverage">
+<a href="assets/images/press_coverage/08.jpg" class="zoom tooltip" rel="prettyPhoto[gallery]">
+<div style="position:relative;"><img src="assets/images/press_coverage/08.jpg" width="188" height="255">
+<img src="assets/images/icons/zoom.png" alt="" style="position:absolute; width:33px; height:33px; top:0px; right:0px;  padding:0px; border:none;" width="33" height="33" border="0"></div>
+<span></span>
+<p style="text-align:left !important;">Pushpam Group Best Winner<br>
+<span><strong>National</strong></span>
+<br>
+<span>Tue, 14<sup>th</sup> Feb 2017 </span>
+</p></a>
+</div>
+</div>
+</div>
 
 
-        <div class="col l3 m3 s3">
-          <div class="row">
-           <div class="col s12 m6">
-             <div class="card">
-               <div class="card-image">
-                 <img src="assets/images/press_coverage/06.jpg">
-                 <span class="card-title">Card Title</span>
-                 <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
-               </div>
-               <!-- <div class="card-content"> -->
-                 <p>Pushpam Group Best Winner</p>
-                 <label>2016 Awards</label>
-                 <label>Tue, 14th Feb 2016</label>
-               <!-- </div> -->
-             </div>
-           </div>
-         </div>
-        </div>
-
-        <div class="col l3 m3 s3">
-          <div class="row">
-           <div class="col s12 m6">
-             <div class="card">
-               <div class="card-image">
-                 <img src="assets/images/press_coverage/07.jpg">
-                 <span class="card-title">Card Title</span>
-                 <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
-               </div>
-               <!-- <div class="card-content"> -->
-                 <p>Pushpam Group Best Winner</p>
-                 <label>2016 Awards</label>
-                 <label>Tue, 14th Feb 2016</label>
-               <!-- </div> -->
-             </div>
-           </div>
-         </div>
-        </div>
-
-        <div class="col l3 m3 s3">
-          <div class="row">
-           <div class="col s12 m6">
-             <div class="card">
-               <div class="card-image">
-                 <img src="assets/images/press_coverage/08.jpg">
-                 <span class="card-title">Card Title</span>
-                 <a class="btn-floating halfway-fab waves-effect waves-light red"><i class="material-icons">add</i></a>
-               </div>
-               <!-- <div class="card-content"> -->
-                 <p>Pushpam Group Best Winner</p>
-                 <label>2016 Awards</label>
-                 <label>Tue, 14th Feb 2016</label>
-               <!-- </div> -->
-             </div>
-           </div>
-         </div>
-        </div>
-
-        <!-- <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/press_coverage/05.jpg"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div>
-        <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/press_coverage/06.jpg"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div>
-        <div class="col l3 m3 s3">  <img class="rig-img" src="assets/images/press_coverage/07.jpg"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div>
-        <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/press_coverage/08.jpg"><p>Pushpam Group Best Winner</p><label>2016 Awards</label><label>Tue, 14th Feb 2016</label></div> -->
-      </div>
-    </div>
     <!-- <div id="test-swipe-2" class="col s12 l12 m12">
       <div class="row">
         <div class="col l3 m3 s3">   <img class="rig-img" src="assets/images/business/hospitality.png"><p>Building Materials/p></div>
