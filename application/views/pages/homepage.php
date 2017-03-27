@@ -69,7 +69,7 @@
   <div class="para1 container icon-block center row mobile_margin">
     <div class="col l12 s12 m12">
       <div class="icon-block center">
-        <h4 class="header center pushpam_text_green mobile_text_margin">OUR HAPPY TEAM</h4>
+        <h4 class="header center pushpam_text_green mobile_text_margin">MANAGEMENT TEAM</h4>
           <!-- <a href="#model_team" class> -->
             <img class ="grey lighten-3" src="assets/images/main/underline.png" alt=""></img>
           <!-- </a> -->
