@@ -28,21 +28,30 @@
    </div>
  </nav> -->
 
+ <div class="col l12 m12 s12  sub_header">
+   <p class="sub_head_text" >Hey there! Welcome to pushpam group</p>
+<ul class="ul_sub_menu">
+  <li class="login pushpam_text_green"><b>login/register</b></li>
+  <!-- <li  style="float:left;">careers</li> -->
+  <!-- <button class="career_button">career</button> -->
+  <a class="career_button btn"> Careers </a>
 
+</ul>
+ </div>
   <nav id="pushpam_bg_nav2" class=" border">
+
    <div class="nav-wrapper">
      <!-- <a id="logo-container" href="<?php echo base_url(); ?>" class="brand-logo"> -->
-       <object id="front-page-logo" class="responsive-img" data="assets/images/test/logo.png" style="width:4%; margin-left:1%">
+       <object id="front-page-logo" class="responsive-img" data="assets/images/test/logo.png" style="width:7%; margin-left:8%">
        </object>
      <!-- </a> -->
-     <ul id="nav-mobile"  class="right hide-on-med-and-down menu_pus">
-       <li class="<?php if($page == 1){echo "active";}else{ echo "";}?>"><a class="black-text tabbuttons"  href="<?php echo base_url(); ?>">Home</a></li>
-       <li class="<?php if($page == 2){echo "active";}else{ echo "";}?>"><a class="black-text tabbuttons" href="<?php echo base_url("about_us.html"); ?>">About Us</a></li>
-       <li class="<?php if($page == 3){echo "active";}else{ echo "";}?>"><a class="black-text tabbuttons" href="<?php echo base_url("business.html"); ?>">Business</a></li>
-       <li class="<?php if($page == 4){echo "active";}else{ echo "";}?>"><a class="black-text tabbuttons" href="<?php echo base_url("future.html"); ?>">Future Thought</a></li>
-       <li class="<?php if($page == 5){echo "active";}else{ echo "";}?>"><a class="black-text tabbuttons" href="<?php echo base_url("investors.html"); ?>">Investors</a></li>
-       <li class="<?php if($page == 6){echo "active";}else{ echo "";}?>"><a class="black-text tabbuttons" href="<?php echo base_url("media.html"); ?>">Media</a></li>
-       <li class="<?php if($page == 7){echo "active";}else{ echo "";}?>"><a class="black-text tabbuttons" href="<?php echo base_url("contact.html"); ?>">Contact</a></li>
+     <ul id="nav-mobile"  class="right menu_pus"><li class="<?php if($page == 1){echo "active";}else{ echo "";}?>"><a class="tabbuttons"  href="<?php echo base_url(); ?>">Home</a></li>
+       <li class="<?php if($page == 2){echo "active";}else{ echo "";}?>"><a class="tabbuttons" href="<?php echo base_url("about_us.html"); ?>">About Us</a></li>
+       <li class="<?php if($page == 3){echo "active";}else{ echo "";}?>"><a class="tabbuttons" href="<?php echo base_url("business.html"); ?>">Businesses</a></li>
+       <li class="<?php if($page == 4){echo "active";}else{ echo "";}?>"><a class="tabbuttons hide" href="<?php echo base_url("future.html"); ?>">Future Thought</a></li>
+       <li class="<?php if($page == 5){echo "active";}else{ echo "";}?>"><a class="tabbuttons" href="<?php echo base_url("investors.html"); ?>">Investors</a></li>
+       <li class="<?php if($page == 6){echo "active";}else{ echo "";}?>"><a class="tabbuttons" href="<?php echo base_url("media.html"); ?>">Media</a></li>
+       <li class="<?php if($page == 7){echo "active";}else{ echo "";}?>"><a class="tabbuttons" href="<?php echo base_url("contact.html"); ?>">Contact</a></li>
      </ul>
      <!-- <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="mdi-navigation-menu"></i></a> -->
    </div>

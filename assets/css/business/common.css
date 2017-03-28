@@ -1,5 +1,11 @@
-html{
-font-family: Open Sans;
+
+
+
+
+
+body{
+    font-family: AvertaStd-Regular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+/*font-family: AvertaStd-Bold;*/
 }
 /*input{
   width: 50%!important;
@@ -25,36 +31,31 @@ font-family: Open Sans;
   z-index:2;
   }
   .founder_chrome{
-  width: 34%;
-  border: 2px solid #62C34E;
-  margin-left: 33%;
-  margin-top: 3%;
-  border-radius: 6px;
-  height: 12%;
+    width: 40%;
+    border: 2px solid #62C34E;
+    margin-left: 30%;
+    margin-top: 3%;
+    border-radius: 6px;
+    height: 12%;
 
   }
   .team_font_size{
     font-size: 23px;
     word-wrap: break-word;
-    margin-left: 109px !important;
+    margin-left: 170px !important;
     text-align: left !important;
   }
+  .founder_chrome_big{
+  width: 42%;
+  border: 2px solid #62C34E;
+  margin-left: 29%;
+  margin-top: 2%;
+  border-radius: 6px;
+  height: 19%;
+  }
 }
-@media only screen and (min-width: 640px) {
-  /*.mobile_margin{
-    margin-left: 15px !important;
-    font-size: 23px;
-  word-wrap: break-word;
-  }*/
+/*@media only screen and (min-width: 640px) {
 
-  /*.pushpam_team_width_640 {
-    width: 78% !important;
-    margin-left: 9% !important;
-}*/
-/*.pushpam_team_width_640{
-  width: 86% !important;
-  padding: 1% 0% 2% 0% !important;
-}*/
 .founder_640{
 width: 58%;
 border: 2px solid #62C34E;
@@ -63,9 +64,67 @@ margin-top: 2%;
 border-radius: 6px;
 height: 17%;
 
+}*/
+
+/*}*/
+@media only screen and (max-width: 1350px) {
+.menu_pus li a{
+      font-size: 20px;
+}
+.bigger{
+  display: none;
+}
+.para1_aboutus{
+text-align: left;
+margin: 22px auto;
+color: #797C80;
+word-wrap: break-word;
+margin-left: 122px;
+width: 82%;
+}
+.vision{
+  margin-left: 118px;
+}
+.mision{
+  margin-left: 20px;
+}
+.pushpam_team_width{
+  width:84%;
+  margin-left:8%;
+
+}
+}
+
+
+@media only screen and (width: 1920px) {
+.menu_pus li a{
+      font-size: 20px;
+}
+.smaller{
+  display: none;
+}
+.para1_aboutus{
+text-align: left;
+margin: 22px auto;
+color: #797C80;
+word-wrap: break-word;
+margin-left: 171px;
+width: 82%;
+}
+.vision{
+  margin-left: 170px;
+}
+.mision{
+  margin-left: 51px;
+}
+.pushpam_team_width{
+  width:90%;
+  margin-left:8%;
+
 }
 
 }
+
 
 @-moz-document url-prefix() {/*firefox*/
   .green_arrow_moz{
@@ -115,12 +174,33 @@ height: 17%;
   height: 44px;
   width: 132px;
 }
+
+
+.career_button{
+  float: left;
+      background-color: #62C34E;
+      color: #fff;
+      border-radius: 9px;
+      border: 2px solid #62C34E;
+      height: 39px;
+      width: 105px;
+      margin-top: 9px;
+       vertical-align: middle;
+       text-align: center;
+       padding-left: 22px;
+       text-transform:lowercase !important;
 }
 .pushpam_margin_top{
   margin-top:36px;
 }
  #pushpam_bg_nav2 {
   background-color: #fff !important;
+  height: 98px;
+}
+#pushpam_bg_nav2 ul{
+  text-align: center;
+vertical-align: middle;
+line-height: 105px;
 }
 
 .menu_pus li.active a{
@@ -146,20 +226,20 @@ font-weight: bold
   padding: 1% 0% 2% 18%;
 }
 
-.pushpam_team_width{
+/*.pushpam_team_width{
   width:86%;
-  margin-left:17%;
+  margin-left:8%;
 
-}
+}*/
 .social_site_width{
-  width:102%;
-  margin-left:-1%;
-  padding-top:13px;
-  padding-bottom: 27px;
+  width:109% !important;
+  margin-left:-4% !important;
+  padding-top:13px !important;
+  padding-bottom: 27px !important;
   margin-top:auto;
-  border-bottom: 2px solid #B0B0B0;
-  border-top: 2px solid #B0B0B0;
-  margin-top:-15px;
+  border-bottom: 2px solid #B0B0B0 !important;
+  /*border-top: 2px solid #B0B0B0;*/
+  margin-top:-15px !important;
 
 }
 
@@ -187,7 +267,8 @@ footer{
 .contact{
   padding-top:35px;
   margin-top:48px;
-  margin-left: 350px;
+  margin-left: 658px;
+  width:29%;
 }
 .email_contact{
   display: inline-flex;
@@ -218,24 +299,17 @@ text-align: center;
 margin: 22px auto;
 color: #797C80;
 word-wrap: break-word;
-margin-left: 212px;
-width: 82%;
+/*margin-left: 212px;*/
+/*width: 82%;*/
 }
-.para1_aboutus{
-text-align: left;
-margin: 22px auto;
-color: #797C80;
-word-wrap: break-word;
-margin-left: 212px;
-width: 82%;
-}
+
+
+
 .slider .indicators .indicator-item {
   height: 11px !important;
   width: 11px !important;
 }
-.slider .indicators{
-  margin-left: 93px;
-}
+
 .para2{
    text-align: left ;
    margin: 22px auto;
@@ -401,3 +475,53 @@ margin-bottom: 48px;
     border: 1px solid #a3a3a3;
     padding: 2px;
   }
+.name_team{
+  text-align: left
+}
+.heading_font{
+  font-family: AvertaStd-Regular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 30px;
+  margin: 30px auto;
+}
+.business_icon_text{
+    font-size: 18px;
+    color: #B0B0B0;
+}
+.tile-sections__link-subtitle {
+    margin-bottom: 0;
+    color: #7f7f7f;
+    /*font-family: AvertaStd-Bold;*/
+}
+.tabbuttons{
+  color: grey;
+}
+.sub_header{
+  background-color: #fff;
+  border-bottom: 1px solid #e5e5e5;
+  height: 59px;
+  text-align: right;
+}
+.sub_head_text{
+  float:left;
+  margin-left:8%;
+  font-family: AvertaStd-Regular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  color: #B0B0B0;
+}
+.login{
+  float:left;
+  margin-left:65%;
+  font-family: AvertaStd-Regular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  color: #B0B0B0;`
+  vertical-align: middle;
+  margin-right: 20px;
+
+}
+.ul_sub_menu{
+  margin-left:6%;
+  font-family: AvertaStd-Regular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size: 16px;
+  color: #B0B0B0;
+  line-height: 57px;
+}
