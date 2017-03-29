@@ -1,13 +1,12 @@
 <body>
-<div class="container icon-block center">
-  <h4 class="pushpam_text_green">CONTACT WITH US</h4>
-    <img class ="grey lighten-3 " src="assets/images/main/underline.png" alt=""></img>
-    <div class="para2"><b>
-      Pushpam Group, under Pushpam Foundation has consistently sought to give back to the society to the best of its ability. Till date, it has adopted several rural schools and has made a difference in the lives of thousands of children. Each member of the organization holds a Geld of medicine that is well within the reach of most students.
-
-    </b>
-    </div>
-
+    <div class="container icon-block center">
+      <h4 class="pushpam_text_green">CONTACT WITH US</h4>
+      <img class ="grey lighten-3 " src="assets/images/main/underline.png" alt=""></img>
+      <div class="para2">
+        <b>
+        Pushpam Group, under Pushpam Foundation has consistently sought to give back to the society to the best of its ability. Till date, it has adopted several rural schools and has made a difference in the lives of thousands of children. Each member of the organization holds a Geld of medicine that is well within the reach of most students.
+        </b>
+      </div>
   </div>
   <div class="row para2 container icon-block center">
     <div class="col l12 s12 m12">
@@ -16,10 +15,11 @@
            <img src="assets/images/contact/india.jpg" class="materialboxed responsive-img z-depth-1 initialized contact_img"  alt="Unsplashed background img 1"><p style="text-align:left !important;"><b>India</b><br>
            <span>#29 (old no. 416)</span>
            <br>
-           <span>18th Main,4 T Block</span><br>Jayanagar, Bangalore 560041
-
-         </p><br>
-         <button class="map_button">View on map</button>
+           <span>18th Main,4 T Block</span>
+           <br>Jayanagar, Bangalore 560041
+            </p>
+           <br>
+           <button class="map_button">View on map</button>
         </div>
       </div>
       <div class="col l4 s4 m4">
@@ -28,8 +28,8 @@
           <span>#29 (old no. 416) </span>
           <br>
           <span>18th Main,4 T Block</span><br>Jayanagar, Bangalore 560041
-
-        </p><br>
+          </p>
+          <br>
         <button class="map_button">View on map</button>
         </div>
       </div>
@@ -39,8 +39,8 @@
           <span>#29 (old no. 416) </span>
           <br>
           <span>18th Main,4 T Block</span><br>Jayanagar, Bangalore 560041
-        </p><br>
-        <button class="map_button">View on map</button>
+          </p><br>
+          <button class="map_button">View on map</button>
         </div>
       </div>
       </div>
@@ -61,13 +61,11 @@
               <span><strong>#29 (old no. 416) </strong></span>
               <br>
               <span>18th Main,4 T Block</span> <br>Jayanagar, Bangalore 560041
-            </p><br>
-          <button class="map_button">View on map</button>
+              </p><br>
+              <button class="map_button">View on map</button>
             </div>
           </div>
         </div>
-
-
     </div>
     <div class="pushpam_border pushpam-form center">
       <div class="message">
@@ -121,6 +119,3 @@
           </div>
         </div>
     </div>
-
-</body>
-</html>
