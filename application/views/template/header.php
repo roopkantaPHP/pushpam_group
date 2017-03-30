@@ -23,6 +23,7 @@
       </li>
     </ul>
     </div>
+    <div class="col l12 m12 s12">
       <nav id="pushpam_bg_nav2" class=" border">
         <div class="nav-wrapper">
      <!-- <a id="logo-container" href="<?php echo base_url(); ?>" class="brand-logo"> -->
@@ -40,4 +41,6 @@
      <!-- <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="mdi-navigation-menu"></i></a> -->
    </div>
   </nav>
+    </div>
+
 </head>

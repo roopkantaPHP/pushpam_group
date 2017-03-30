@@ -98,9 +98,17 @@ height: 23%;
 }
 
 
-div.para1 div:hover{
+div.stats div:hover{
   color: #E6464C;
   cursor: pointer;
+}
+div.business-options p:hover{
+  color: #E6464C !important;
+
+}
+.input-field.col label{
+  color: white !important;
+  font-weight: bold !important0000;
 }
 
 div.contact form div{
@@ -113,21 +121,19 @@ div.contact form div{
 div.contact .input-field input{
     /*background: trasparent !important;*/
     background-color: transparent !important;
-    border-bottom: white;
+    border-bottom: 1px solid white !important;
     /*color: white;*/
   }
 
   div.contact .input-field textarea{
       /*background: trasparent !important;*/
       background-color: transparent !important;
-      border-bottom: white;
+      border-bottom: 1px solid white;
       /*color: white;*/
     }
 
   div.contact input{
     color: white;
-      /*border-bottom: white;*/
-      /*color: white;*/
     }
 
     div.contact input:focus{
@@ -142,6 +148,9 @@ color: white;
           border-bottom: 1px solid white !important;
       box-shadow: 0 1px 0 0 white !important;
           /*color: white;*/
+        }
+        div.contact p{
+          font-size: 22px;
         }
 
 
@@ -369,7 +378,7 @@ footer{
 
 }
 .contact{
-  padding-top:35px;
+  padding-top:1px;
   /*margin-top:48px;*/
   /*margin-left: 658px;*/
   width:50%;

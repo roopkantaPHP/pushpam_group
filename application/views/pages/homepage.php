@@ -1,6 +1,6 @@
 
 
-<body>
+<body><div class="l12 m12 s12">
     <div class="slider">
       <ul class="slides">
         <li>
@@ -33,6 +33,7 @@
         </li>
       </ul>
     </div>
+  </div>
     <div>
       <div class="row para1  icon-block center">
         <div class="col l12 s12 m12">
@@ -177,7 +178,9 @@
               <label for="textarea1">Textarea</label>
             </div>
           </div>
+          <div class="row center">
           <a class="waves-effect waves-light btn-large sub_buttom pushpam_bg">Submit</a>
+          </div>
         </form>
       </div>
     </div>
