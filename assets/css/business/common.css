@@ -172,7 +172,7 @@ height: 17%;
 /*}*/
 @media only screen{
 .menu_pus li a{
-      font-size: 20px;
+      font-size: 15px;
 }
 .bigger{
   display: none;
@@ -298,7 +298,7 @@ width: 82%;
 }
  #pushpam_bg_nav2 {
   background-color: #fff !important;
-  height: 98px;
+  height: 12%;
 }
 #pushpam_bg_nav2 ul{
   text-align: center;
@@ -623,7 +623,7 @@ margin-bottom: 48px;
   font-size: 16px;
   color: #B0B0B0;`
   vertical-align: middle;
-  margin-right: 20px;
+  margin-right: 2%;
 
 }
 .ul_sub_menu{
