@@ -338,6 +338,12 @@ font-weight: bold
   width:100%;
   padding: 1% 0% 2% 18%;
 }
+.center-floater {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
 /*.pushpam_team_width{
   width:86%;
