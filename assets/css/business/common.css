@@ -15,14 +15,17 @@
       margin: 22px auto;
       color: #797C80;
       word-wrap: break-word;
-      margin-left: 122px;
+      /*margin-left: 122px;*/
       width: 82%;
     }
     .vision{
       margin-left: 118px;
+      padding-right: 22%;
     }
     .mision{
       margin-left: 20px;
+      padding-right: 3%;
+      padding-left: 16%;
     }
     .pushpam_team_width{
       width:84%;
@@ -159,7 +162,7 @@ footer{
 
 }
 .social{
-      margin: 20px auto auto;
+
 }
 .fa-facebook ,.fa-twitter, .fa-linkedin, .fa-youtube {
   color:#DDDDDD;
@@ -358,7 +361,20 @@ margin-bottom: 48px;
   padding: 2px;
   }
 .name_team{
-  text-align: left
+  text-align: center;
+  font-weight: bold;
+font-size: 13px
+}
+.social{
+  margin-left: 12%;
+  width: 93%;
+  margin: 20px auto auto;
+}
+.social_link{
+    margin-top: 5%
+}
+.border_social{
+  border-bottom: 2px solid #B0B0B0 !important;
 }
 .heading_font{
   font-family: AvertaStd-Regular,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -459,3 +475,7 @@ margin-bottom: 48px;
   nav ul a:hover{
     background-color: #fff !important;
   }
+  *, :after, :before {
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+}

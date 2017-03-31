@@ -36,7 +36,7 @@
                 <p class="light team_font_size mobile_margin">
                   Develop safe, eco-friendly and self sustainable living communities.
                   Develop safe, eco-friendly and self sustainable living communities.
-            
+
               </div>
             </div>
           </div>
@@ -186,48 +186,49 @@
 <div class="icon-block center happy_team">
   <h4 class="pushpam_text_green col s12 m12 l12 heading_font"><b>OUR Happy Team</b></h4>
   <img class ="grey lighten-3 " src="assets/images/main/underline.png" alt=""></img>
-  <div class="para1_aboutus"><b>
+  <div class="para1_aboutus light team_font_size mobile_margin business_icon_text"><b>
   The group is a 2 decade old multinational organization operating across Real Estate, Agro business, Floriculture, Trading, Hospitality, Healthcare and Education. The group strives to create meaningful living spaces, improve human well-being and empower through power of knowledge, health, wellness and happiness.
   </b>
   </div>
 </div>
   <div class="row pushpam_team_width center">
-    <div class="col l12 s12 m12">
-      <div class="col l3 m3 s3">
+    <div class="center-floater row">
+      <!-- <div class="col l3 m3 s3"> -->
         <div class="material-placeholder">
           <img src="assets/images/test/m1.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"></img><div class="name_team"><br>Wilson <br>GM - Sales</div>
         </div>
-      </div>
-      <div class="col l3 m3 s3">
+      <!-- </div> -->
+      <!-- <div class="col l3 m3 s3"> -->
         <div class="material-placeholder">
           <img src="assets/images/test/m2.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><div class="name_team"><br>Krishna Murthy <br> Account Manager</div>
         </div>
-      </div>
-      <div class="col l3 m3 s3">
+      <!-- </div> -->
+      <!-- <div class="col l3 m3 s3"> -->
         <div class="material-placeholder">
           <img src="assets/images/test/m3.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><div class="name_team"><br> Vijay Krishna <br>Purshase Manager</div>
         </div>
-      </div>
-      <div class="col l3 m3 s3">
+      <!-- </div> -->
+      <!-- <div class="col l3 m3 s3"> -->
           <div class="material-placeholder">
             <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><div class="name_team"><br>Shweta Arora <br>Human Resource</div>
           </div>
-        </div>
+        <!-- </div> -->
       </div>
-    </div>
-    <div class="row center social_site_width">
-      <div class="col l12 m12 s12">
-        <div class="col l3 m3 s3">
-          <i class="fa fa-facebook fa-3x fa-fw"></i>
-        </div>
-        <div class="col l3 m3 s3">
-          <i class="fa fa-twitter fa-3x fa-fw"></i>
-        </div>
-        <div class="col l3 m3 s3">
-            <i class="fa fa-Linkedin fa-3x fa-fw"></i>
-        </div>
+      <div class="row social_link">
           <div class="col l3 m3 s3">
-            <i class="fa fa-youtube fa-3x fa-fw"></i>
+            <i class="fa fa-facebook fa-3x fa-fw"></i>
           </div>
-        </div>
+          <div class="col l3 m3 s3">
+            <i class="fa fa-twitter fa-3x fa-fw"></i>
+          </div>
+          <div class="col l3 m3 s3">
+              <i class="fa fa-Linkedin fa-3x fa-fw"></i>
+          </div>
+            <div class="col l3 m3 s3">
+              <i class="fa fa-youtube fa-3x fa-fw"></i>
+            </div>
+    </div>
+      </div>
+
+    <div class="col l12 m12 s12 border_social">
     </div>
