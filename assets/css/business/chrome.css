@@ -1,0 +1,62 @@
+@media screen and (-webkit-min-device-pixel-ratio:0) /*google chrome*/
+{
+  .green_arrow_chrome{
+    margin-top: -52px;
+    z-index: 2;
+  }
+  .business-options{
+    /*display: inline-flex;*/
+    width: 80%;
+  }
+  .founder_chrome{
+    width: 50%;
+    border: 2px solid #62C34E;
+    margin-left: 25%;
+    margin-top: 3%;
+    border-radius: 6px;
+    height: 23%;
+  }
+  .team_font_size{
+    font-size: 16px;
+    word-wrap: break-word;
+    text-align: justify !important;
+  }
+  .founder_chrome_big{
+  width: 42%;
+  border: 2px solid #62C34E;
+  margin-left: 29%;
+  margin-top: 2%;
+  border-radius: 6px;
+  height: 19%;
+  }
+  .center-floater{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .center-floater-item{
+    padding: 2px;
+  }
+  .management-options{
+  padding-left: 16%;
+  padding-right: 14%;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ }

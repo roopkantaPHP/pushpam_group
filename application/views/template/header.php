@@ -9,10 +9,12 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/css/materialize.min.css">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
   <link href="<?php echo base_url('assets/css/business/common.css');?>" rel="stylesheet">
+  <link href="<?php echo base_url('assets/css/business/chrome.css');?>" rel="stylesheet">
+  <link href="<?php echo base_url('assets/css/business/mozilla.css');?>" rel="stylesheet">
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
-  <div class="col l12 m12 s12  sub_header">
+  <div class="sub_header">
    <p class="sub_head_text" >Hey there! Welcome to pushpam group</p>
     <ul class="ul_sub_menu">
       <li class="login pushpam_text_green">
@@ -41,6 +43,7 @@
      <!-- <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="mdi-navigation-menu"></i></a> -->
    </div>
   </nav>
-    </div>
+</div>
+
 
 </head>
