@@ -1,7 +1,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) /*google chrome*/
 {
   .green_arrow_chrome{
-    margin-top: -52px;
+    margin-top: -11%;
     z-index: 2;
   }
   .business-options{
@@ -9,12 +9,12 @@
     width: 80%;
   }
   .founder_chrome{
-    width: 50%;
+    width: 40%;
     border: 2px solid #62C34E;
-    margin-left: 25%;
-    margin-top: 3%;
+    margin-left: 30%;
+    margin-top: 1%;
     border-radius: 6px;
-    height: 23%;
+    height: 18%;
   }
   .team_font_size{
     font-size: 16px;

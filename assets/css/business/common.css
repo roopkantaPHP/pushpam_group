@@ -161,9 +161,7 @@ footer{
   background-color:#fff !important;
 
 }
-.social{
 
-}
 .fa-facebook ,.fa-twitter, .fa-linkedin, .fa-youtube {
   color:#DDDDDD;
 }
@@ -213,7 +211,7 @@ word-wrap: break-word;
    word-wrap: break-word;
 }
 .image1{
-  margin-left: 36px !important;
+  /*margin-left: 13% !important;*/
 }
 .founder{
 width: 34%;
@@ -226,7 +224,7 @@ height: 22%;
 
 .founder_sub{
   margin-left:29px;
-  margin-top:13px;
+  margin-top:2.5%;
 }
 section{
   padding-top: 8px;
@@ -373,13 +371,16 @@ font-size: 13px
 .social_link{
     margin-top: 5%
 }
+.social_link i:hover{
+    color:red;
+}
 .border_social{
   border-bottom: 2px solid #B0B0B0 !important;
 }
 .heading_font{
   font-family: AvertaStd-Regular,"Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 30px;
-  margin: 30px auto;
+  /*margin: 30px auto;*/
 }
 .business_icon_text{
   font-size: 18px;
@@ -478,4 +479,10 @@ font-size: 13px
   *, :after, :before {
     box-sizing: border-box;
     -webkit-font-smoothing: antialiased;
+}
+.overlap_img{
+  margin-left: -107%;
+}
+.time_text{
+  margin-left: -17%;
 }

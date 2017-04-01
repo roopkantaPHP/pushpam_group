@@ -59,7 +59,7 @@
                 </div>
               </div>
               <div class="col l7 m7 s7">
-                <span class="black-text">
+                <span class="black-text time_text">
                   Dr. Manjunath M and Veena R S founding the company.
                 </span>
               </div>
