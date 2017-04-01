@@ -39,13 +39,13 @@
     <div class="row para1  icon-block center">
         <div class="col l12 s12 m12">
           <div class="icon-block center">
-            <h4 class="header center pushpam_text_green heading_font"><b>OUR BUSINESSES</b></h4>
-            <img class ="grey lighten-3 " src="assets/images/main/underline.png" alt="">
+            <h4 class="header center pushpam_text_green heading_font pushpam_font"><b>OUR BUSINESSES</b></h4>
+            <img class ="grey lighten-3 icon_underline" src="assets/images/main/underline.png" alt="">
           </div>
         </div>
       </div>
     <div class="para1 icon-block center row business-options">
-        <div class="col l3 m3 s3"><a href="<?php echo base_url("business.html?busi=agri"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/agri-business.png"><p>Agribusiness</p></a></div>
+        <div class="col l3 m3 s3"><a href="<?php echo base_url("business.html?busi=agri"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/agri-business.png"><p class="pushpam_font">Agribusiness</p></a></div>
         <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=con"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/construction.png"><p>Construction</p></a></div>
         <div class="col l3 m3 s3">  <a href="<?php echo base_url("business.html?busi=real"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/real-estate.png"><p>Real Estate</p></a></div>
         <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=hos"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/hospitality.png"><p>Hospitality</p></a></div>
@@ -82,7 +82,7 @@
         <div class="icon-block">
         <h4 class="header center pushpam_text_green mobile_text_margin heading_font"><b>MANAGEMENT TEAM</b></h4>
        <!-- <a href="#model_team" class> -->
-        <img class ="grey lighten-3" src="assets/images/main/underline.png" alt=""></img>
+        <img class ="grey lighten-3 icon_underline" src="assets/images/main/underline.png" alt=""></img>
         </div>
       </div>
       <p class="light team_font_size mobile_margin business_icon_text">
@@ -94,27 +94,27 @@
        <div  class="center-floater row">
                              <!-- <div class="col l2 m2 s2 center-floater-item"> -->
            <div class="material-placeholder">
-             <img src="assets/images/test/m1.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> Veena RS <br> Managing director </div>
+             <img src="assets/images/test/m1.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> <span class="name">Veena RS</span> <br> Managing director </div>
            </div>
          <!-- </div> -->
          <!-- <div class="col l2 m2 s2 center-floater-item"> -->
            <div class="material-placeholder center-floater-item">
-             <img src="assets/images/test/m2.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br>  Dr. Manjunath Reddy <br> CEO </div>
+             <img src="assets/images/test/m2.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> <span class="name"> Dr. Manjunath Reddy </span> <br> CEO </div>
            </div>
          <!-- </div> -->
          <!-- <div class="col l2 m2 s2 center-floater-item"> -->
            <div class="material-placeholder center-floater-item">
-             <img src="assets/images/test/m3.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> Abhiram M <br>Managing Director </div>
+             <img src="assets/images/test/m3.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> <span class="name">Abhiram M </span> <br>Managing Director </div>
            </div>
          <!-- </div> -->
          <!-- <div class="col l2 m2 s2 center-floater-item"> -->
            <div class="material-placeholder center-floater-item">
-             <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> Akshay M Reddy <br>Managing Director </div>
+             <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br><span class="name"> Akshay M Reddy </span><br>Managing Director </div>
            </div>
          <!-- </div> -->
          <!-- <div class="col l2 m2 s2 center-floater-item"> -->
            <div class="material-placeholder center-floater-item">
-             <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br>  Radha R S <br>Purchase Manager</div>
+             <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br>  <span class="name">Radha R S </span> <br>Purchase Manager</div>
            </div>
                              <!-- </div> -->
          </div>
@@ -137,7 +137,7 @@
 <div class="pushpam_border pushpam-form">
     <div class="message">
       <div class="container contact">
-        <p class="pushpam_text_white">Help us serve you better. Drop a message below and we will get back to you at the earliest.</p>
+        <p class="pushpam_text_white message_head">Help us serve you better. Drop a message below and we will get back to you at the earliest.</p>
         <form class="col s6 l12 m12">
           <div class="row">
             <div class="input-field col s2 m6 l6">

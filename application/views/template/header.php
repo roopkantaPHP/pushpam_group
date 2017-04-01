@@ -15,13 +15,13 @@
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.98.0/js/materialize.min.js"></script>
   <div class="sub_header">
-   <p class="sub_head_text" >Hey there! Welcome to pushpam group</p>
+   <p class="sub_head_text pushpam_font" >Hey there! Welcome to pushpam group</p>
     <ul class="ul_sub_menu">
-      <li class="login pushpam_text_green">
-        <b>login/register</b>
+      <li class="login pushpam_text_green pushpam_font">
+        Login/Register
       </li>
       <li>
-        <a class="career_button btn"> Careers </a>
+        <a class="career_button btn pushpam_font">Careers </a>
       </li>
     </ul>
     </div>

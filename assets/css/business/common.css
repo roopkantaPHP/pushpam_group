@@ -5,7 +5,9 @@
 
   @media only screen{
     .menu_pus li a{
-    font-size: 15px;
+      font-size: 13px;
+      font-weight: bold;
+      font-family: "Roboto", sans-serif;
     }
     /*.bigger{
       display: none;
@@ -35,7 +37,9 @@
 
 @media only screen and (width: 1920px) {
   .menu_pus li a{
-        font-size: 20px;
+    font-size: 13px;
+font-weight: bold;
+font-family: "Roboto", sans-serif;0
   }
   .smaller{
     display: none;
@@ -99,7 +103,7 @@
     vertical-align: middle;
     text-align: center;
     padding-left: 22px;
-    text-transform:lowercase !important;
+    text-transform:capitalize !important;
 }
 .pushpam_margin_top{
   margin-top:36px;
@@ -138,6 +142,9 @@
   padding: 1% 0% 2% 18%;
 }
 
+.btn:hover{
+  background-color: #62C34E!important;
+}
 
 /*.pushpam_team_width{
   width:86%;
@@ -361,7 +368,13 @@ margin-bottom: 48px;
 .name_team{
   text-align: center;
   font-weight: bold;
-font-size: 13px
+  font-size: 13px
+}
+.name{
+  color:black;
+}
+.message_head{
+  text-align: center;
 }
 .social{
   margin-left: 12%;
@@ -392,7 +405,8 @@ font-size: 13px
   /*font-family: AvertaStd-Bold;*/
 }
 .tabbuttons{
-  color: grey;
+  color:#6A6A6A;
+  /*font-weight: bold;*/
 }
 .sub_header{
   background-color: #fff;
@@ -485,4 +499,7 @@ font-size: 13px
 }
 .time_text{
   margin-left: -17%;
+}
+.icon_underline{
+  margin-top: -17px;
 }
