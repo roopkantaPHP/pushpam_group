@@ -1,15 +1,15 @@
 
     <body>
-      <div class="icon-block center">
+      <div class="icon-block center aboutus">
         <h4 class="pushpam_text_green heading_font"><b>SUCCESS STORIES</b></h4>
         <img class ="grey lighten-3 " src="assets/images/main/underline.png" alt=""></img>
         <div class="para1_aboutus">
-          <p class="light team_font_size mobile_margin business_icon_text">
+          <p class="light team_font_size mobile_margin">
           The group is a 20 year old multinational organization operating across Real Estate, Agro business, Floriculture, Trading, Hospitality, Healthcare and Education. The group strives to create meaningful living spaces, improve human well-being and empower through power of knowledge, health, wellness and happiness.
         </p>
         </div>
         <div  class="para1_aboutus">
-        <p class="light team_font_size mobile_margin business_icon_text">
+        <p class="light team_font_size mobile_margin">
           Pushpam Group is headed by Mrs. Veena R.S. as Chairperson and Dr N.Manjunatha Reddy as CEO. He has brought in 3 decades of management expertise in all fields of management to the Group. Very widely travelled, with exposure to more than a decade of high living in the Middle East, UK, Europe and Asia.
           Since inception, he has instilled in the Group a very strong sense of quality and values. His leadership skills, attention to details and customer centric approach has percolated to all the levels of our organization thereby helping us to be one of the best in the industry. Dr Reddy wears his love for the nature on his sleeve as he guides the group on sustainable green projects for a healthy and harmonious living. This combined with his passion for perfection is helping the group in building world class residential units.
         </p>
@@ -19,9 +19,10 @@
             <div class="icon-block center">
               <span class="pushpam_text_green">
                 <b>VISION</b>
+                <div class=" small-title-aboutus small-title text-center company__offices-title"></div>
               </span>
               <div class="para1_aboutus vision">
-                <p class="light team_font_size mobile_margin ">
+                <p class="light team_font_size mobile_margin pushpam_black_font">
                 Play a pioneering role in Realty Sector and create landmarks that are sustainable & add value to the environment, thus transforming the way we build, live and work.
               </p>
               </div>
@@ -31,9 +32,10 @@
             <div class="icon-block center">
               <span class="pushpam_text_green">
                 <b> MISSION</b>
+                <div class=" small-title-aboutus small-title text-center company__offices-title"></div>
               </span>
               <div class="para1_aboutus mision">
-                <p class="light team_font_size mobile_margin">
+                <p class="light team_font_size mobile_margin pushpam_black_font">
                   Develop safe, eco-friendly and self sustainable living communities.
                   Develop safe, eco-friendly and self sustainable living communities.
 

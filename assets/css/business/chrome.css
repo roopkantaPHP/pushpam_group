@@ -17,8 +17,9 @@
     height: 18%;
   }
   .team_font_size{
-    font-size: 16px;
+    font-size: 14px;
     word-wrap: break-word;
+    color: #999;
     text-align: justify !important;
   }
   .founder_chrome_big{

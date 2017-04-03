@@ -19,7 +19,8 @@
           </ul>
         </div>
         <div class="col l4 m4 s12">
-          <h5> <b> Menu </b></h5>
+          <h5> <b> Menu </b> <div class="small-title-footer text-center company__offices-title">
+           </div></h5>
           <ul>
             <li><label><a href="<?php echo base_url(); ?>" class="pushpam_text_green">Home</a></label></li>
             <li><label><a href="<?php echo base_url("about_us.html"); ?>" class="pushpam_text_green">About Us</a></label></li>
@@ -31,7 +32,8 @@
           </ul>
         </div>
         <div class="col l4 m4 s12">
-          <h5> <b> Locations </b></h5>
+          <h5> <b> Locations </b>  <div class=" small-title-footer small-title text-center company__offices-title">
+           </div></h5>
           <ul>
             <li><label>India</label></li>
             <li><label>USA</label></li>
@@ -47,8 +49,9 @@
   $(document).ready(function(){
       $('.parallax').parallax();
       $('ul.tabs').tabs('select_tab', 'tab_id');
+      $('.slider').slider();
 
-      
+
   });
 
   </script>

@@ -85,7 +85,7 @@
         <img class ="grey lighten-3 icon_underline" src="assets/images/main/underline.png" alt=""></img>
         </div>
       </div>
-      <p class="light team_font_size mobile_margin business_icon_text">
+      <p class="light team_font_size mobile_margin">
        Dummy content  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
        laudantium, totam aperiam, eaque ipsa quae ab illo inventore.Dummy content  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
            laudantium, totam aperiam, eaque ipsa quae ab illo inventore.Dummy content  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
