@@ -93,17 +93,20 @@ font-family: "Roboto", sans-serif;0
 }
 .career_button{
   float: left;
-    background-color: #62C34E;
-    color: #fff;
-    border-radius: 9px;
-    border: 2px solid #62C34E;
-    height: 39px;
-    width: 105px;
-    margin-top: 9px;
-    vertical-align: middle;
-    text-align: center;
-    padding-left: 22px;
-    text-transform:capitalize !important;
+  background-color: #62C34E;
+  color: #fff;
+  border-radius: 7px;
+  border: 2px solid #62C34E;
+  height: 27px;
+  width: 75px;
+  margin-top: 15px;
+  /*vertical-align: 54px;*/
+  /*text-align: center;*/
+  padding-left: 12px;
+  padding-top: -7px!important;
+  text-transform: capitalize !important;
+  font-size: 12px;
+  line-height: 24px !important;
 }
 .pushpam_margin_top{
   margin-top:36px;
@@ -425,14 +428,14 @@ margin-bottom: 48px;
   float:left;
   margin-left:53%;
   font-family: AvertaStd-Regular,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 16px;
+  font-size: 13px;
   color: #B0B0B0;`
   vertical-align: middle;
   margin-right: 2%;
 
 }
 .ul_sub_menu{
-  margin-left:12%;
+  margin-left:6%;
   font-family: AvertaStd-Regular,"Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 16px;
   color: #B0B0B0;
