@@ -508,7 +508,7 @@ margin-bottom: 48px;
   margin-left: -17%;
 }
 .icon_underline{
-  margin-top: -17px;
+  margin-top: -13px;
 }
 .btn-labs--arrow::after, .hs-form .hs-form-field .input:after, .small-title::after, .small-title-footer::after{
     content: '';
