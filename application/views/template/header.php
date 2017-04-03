@@ -32,13 +32,31 @@
        <object id="front-page-logo" class="responsive-img" data="assets/images/test/logo.png" style="width:7%; margin-left:8%">
        </object>
      <!-- </a> -->
-       <ul id="nav-mobile"  class="right menu_pus"><li class="<?php if($page == 1){echo "active";}else{ echo "";}?>"><a class="tabbuttons"  href="<?php echo base_url(); ?>">Home</a></li>
-         <li class="<?php if($page == 2){echo "active";}else{ echo "";}?>"><a class="tabbuttons" href="<?php echo base_url("about_us.html"); ?>">About Us</a></li>
-         <li class="<?php if($page == 3){echo "active";}else{ echo "";}?>"><a class="tabbuttons" href="<?php echo base_url("business.html"); ?>">Businesses</a></li>
-         <li class="<?php if($page == 4){echo "active";}else{ echo "";}?>"><a class="tabbuttons hide" href="<?php echo base_url("future.html"); ?>">Future Thought</a></li>
-         <li class="<?php if($page == 5){echo "active";}else{ echo "";}?>"><a class="tabbuttons" href="<?php echo base_url("investors.html"); ?>">Investors</a></li>
-         <li class="<?php if($page == 6){echo "active";}else{ echo "";}?>"><a class="tabbuttons" href="<?php echo base_url("media.html"); ?>">Media</a></li>
-         <li class="<?php if($page == 7){echo "active";}else{ echo "";}?>"><a class="tabbuttons" href="<?php echo base_url("contact.html"); ?>">Contact</a></li>
+       <ul id="nav-mobile"  class="right menu_pus">
+
+         <li class="<?php if($page == 1){echo "active";}else{ echo "";}?>"><a class="tabbuttons"  href="<?php echo base_url();?>">Home <div class="<?php if($page == 1){echo '';} else{ echo 'hide';} ?> small-title text-center company__offices-title"></div></a></li>
+
+         <li class="<?php if($page == 2){echo "active";}else{ echo "";}?>"><a class="tabbuttons" href="<?php echo base_url("about_us.html"); ?>">About Us <div class="<?php if($page == 2){echo '';} else{ echo 'hide';} ?>small-title text-center company__offices-title"></div></a></li>
+
+         <li class="<?php if($page == 3){echo "active";}else{ echo "";}?>"><a class="tabbuttons" href="<?php echo base_url("business.html"); ?>">Businesses <div class="<?php if($page == 3){echo '';} else{ echo 'hide';} ?> small-title text-center company__offices-title"></div></a></li>
+
+         <li class="<?php if($page == 4){echo "active";}else{ echo "";}?>"><a class="tabbuttons hide" href="<?php echo base_url("future.html"); ?>">Future Thought <div class="<?php if($page == 4){echo '';} else{ echo 'hide';} ?> small-title text-center company__offices-title"></div></a></li>
+
+         <li class="<?php if($page == 5){echo "active";}else{ echo "";}?>"><a class="tabbuttons" href="<?php echo base_url("investors.html"); ?>">Investors <div class="<?php if($page == 5){echo '';} else{ echo 'hide';} ?> small-title text-center company__offices-title"></div></a></li>
+
+        <li class="<?php if($page == 6){echo "active";}else{ echo "";}?>">
+          <a class="tabbuttons" href="<?php echo base_url("media.html"); ?>">Media
+            <div class="<?php if($page == 6){echo '';} else{ echo 'hide';} ?> small-title text-center company__offices-title">
+            </div>
+          </a>
+        </li>
+
+         <li class="<?php if($page == 7){echo "active";}else{ echo "";}?>">
+           <a class="tabbuttons" href="<?php echo base_url("contact.html"); ?>">Contact
+             <div class="<?php if($page == 7){echo '';} else{ echo 'hide';} ?> small-title text-center company__offices-title">
+             </div>
+           </a>
+         </li>
        </ul>
      <!-- <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="mdi-navigation-menu"></i></a> -->
    </div>

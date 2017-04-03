@@ -115,7 +115,7 @@ font-family: "Roboto", sans-serif;0
 #pushpam_bg_nav2 ul{
   text-align: center;
   vertical-align: middle;
-  line-height: 473%;
+  line-height: 517%;
   margin-right: 7%;
 }
 
@@ -502,4 +502,17 @@ margin-bottom: 48px;
 }
 .icon_underline{
   margin-top: -17px;
+}
+.btn-labs--arrow::after, .hs-form .hs-form-field .input:after, .small-title::after {
+    content: '';
+}
+.small-title::after {
+    /*top: -4px;*/
+    left: 50%;
+    bottom: 0;
+    position: relative;
+    display: inherit;
+    border: 1px solid #00d664;
+    width: 35px;
+    transform: translateX(-50%);
 }

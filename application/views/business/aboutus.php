@@ -114,75 +114,7 @@
   </div>
 
 <!-- ============================================== -->
-<div class="bigger">
-  <div class="icon-block center">
-    <div class="col l12 m12 s12 offset-m2 l6 offset-l3 founder_moz founder_chrome_big">
-        <div class="row valign-wrapper">
-          <div class="col l5 m5 s5 founder_sub">
-            <div class="row">
-              <div class="col l6 m6 s6">
-                <img src="assets/images/test/m4.jpg" alt="" class="circle responsive-img image1"> <!-- notice the "circle" class -->
-              </div>
-              <div class="col l6 m6 s6">
-                <img src="assets/images/test/m4.jpg" alt="" class="circle responsive-img overlap_img">
-              </div>
-            </div>
-          </div>
-          <div class="col l7 m7 s7">
-            <span class="black-text">
-              Dr. Manjunath M and Veena R S founding the company.
-            </span>
-          </div>
-        </div>
-        <img  src="assets/images/business/green_arrow.png" alt="" class="circle responsive-img green_arrow_moz green_arrow_chrome"> </img>
-    </div>
-</div>
-<div>
-  <section class="timeline">
-  <ul>
-    <li>
-      <div class="z-depth-4 UpperTitle">
-        <img src="assets/images/icons/bulb.png"></img>
-        <!-- <i class="fa fa-lightbulb-o" aria-hidden="true"></i> -->
-        <time>1993</time>
-        Laid the foundation for Pushpam Flora Base
-      </div>
-    </li>
-    <li>
-      <div class="z-depth-4 UpperTitle">
-        <img src="assets/images/icons/flower.png"></img>
-        <time>2004</time>
-        Largest exporter of fresh flowers in India
-      </div>
-    </li>
-    <li>
-      <div class="z-depth-4 UpperTitle">
-        <img src="assets/images/icons/build.png"></img>
-        <!-- <i class="fa fa-building-o" aria-hidden="true"></i> -->
-        <time>2010</time>
-      Launch our first real estate project Pushpalok
-      </div>
-    </li>
-    <li>
-      <div class="z-depth-4 UpperTitle">
-          <img src="assets/images/icons/imera.png"></img>
-        <time>2014</time>
-        Opened the doors of our first resort - Imera
-      </div>
-    </li>
-    <li>
-      <div class="z-depth-4 UpperTitle">
-          <img src="assets/images/icons/science.png"></img>
-          <!-- <i class="fa 	fa fa-user-md" aria-hidden="true"></i> -->
-        <time>2016</time>
-      Approval of Puspam School of Medicine
-      </div>
-    </li>
-    <!-- more list items here -->
-  </ul>
-</section>
-</div>
-</div>
+<div class="small-title text-center company__offices-title"></div>
 <div class="icon-block center happy_team">
   <h4 class="pushpam_text_green col s12 m12 l12 heading_font"><b>OUR Happy Team</b></h4>
   <img class ="grey lighten-3 " src="assets/images/main/underline.png" alt=""></img>
