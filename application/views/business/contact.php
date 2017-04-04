@@ -8,7 +8,7 @@
       </p>
       </div>
   </div>
-  <div class="row para2 container icon-block center">
+  <div class="row para2 container icon-block center map">
     <div class="col l12 s12 m12">
       <div class="col l4 s4 m4">
         <div class="material-placeholder">

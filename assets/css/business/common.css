@@ -198,7 +198,7 @@ word-wrap: break-word;
    margin: 22px auto;
    color:#797C80;
    word-wrap: break-word;
-   margin-left: 15%;
+   margin-left: -30%;
 }
 
 .founder{
@@ -550,8 +550,8 @@ transform: translateX(-50%);
   color: #999;
   text-align: justify !important;
 }*/
-.happy_team{
-      padding-left: 4%;
+.happyteam{
+      padding-left: 4% !important;
 }
 .founder_chrome_big{
 width: 42%;
@@ -576,4 +576,7 @@ padding-right: 14%;
 }
 .parallax-container{
   width: 100%;
+}
+.map{
+  margin-left: 13%
 }

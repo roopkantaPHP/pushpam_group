@@ -26,8 +26,8 @@
         </p>
 
     </div>
-  </div>
-  <div class="container icon-block center happy_team">
+
+  <div class="container icon-block center happy_team happyteam">
     <div class="para2">
       <div class="row">
         <div class="col l4 m4 s4">   <img class="rig-img" src="assets/images/business/logo1.png"><p>The group of industries dealing with agricultural produce and services required in fanning. </p></div>
@@ -37,6 +37,7 @@
       </div>
     </div>
   </div>
+</div>
   <div class="row para1  icon-block center">
       <div class="col l12 s12 m12">
         <div class="icon-block center">
