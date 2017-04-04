@@ -161,7 +161,7 @@ font-family: "Roboto", sans-serif;0
   /*width:109% !important;*/
   border-bottom: 2px solid #B0B0B0 !important;
   /*border-top: 2px solid #B0B0B0;*/
-  height: 10%
+  height: 9%
 }
 
 
@@ -306,17 +306,19 @@ section{
   margin: 62px auto;
 }
 .media_pushpam .tab a{
-  color: #797C80 !important;
+  color: #34303E!important;
+  /*font-weight: bold;*/
 
 }
 .media_pushpam .tab a.active{
   color: #62C34E !important;
-
+  font-weight: bold !important;
 }
 
 
 .media_pushpam .indicator{
   background-color: #fff !important;
+  display: none;
 
 }
 
@@ -388,7 +390,7 @@ margin-bottom: 48px;
   margin: 20px auto auto;
 }
 .social_link{
-    margin-top: 5%
+    margin-top: 2% !important;
 }
 .social_link i:hover{
     color:red;

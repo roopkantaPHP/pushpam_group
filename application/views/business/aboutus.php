@@ -116,12 +116,12 @@
   </div>
 
 <!-- ============================================== -->
-<div class="small-title text-center company__offices-title"></div>
+
 <div class="icon-block center happy_team">
   <h4 class="pushpam_text_green col s12 m12 l12 heading_font"><b>OUR Happy Team</b></h4>
   <img class ="grey lighten-3 icon_underline" src="assets/images/main/underline.png" alt=""></img>
   <div class="para1_aboutus light team_font_size mobile_margin business_icon_text">
-    <p class="light team_font_size mobile_margin ">
+    <p class="light team_font_size mobile_margin">
   The group is a 2 decade old multinational organization operating across Real Estate, Agro business, Floriculture, Trading, Hospitality, Healthcare and Education. The group strives to create meaningful living spaces, improve human well-being and empower through power of knowledge, health, wellness and happiness.
 </p>
   </div>

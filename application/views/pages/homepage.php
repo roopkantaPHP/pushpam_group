@@ -172,7 +172,7 @@
       </div>
     </div>
   </div>
-  <div class="row center social_site_width">
+  <div class="row center social_link">
       <div class="col l12 m12 s12">
         <div class="col l3 m3 s3">
           <i class="fa fa-facebook fa-3x fa-fw"></i>
@@ -187,6 +187,8 @@
             <i class="fa fa-youtube fa-3x fa-fw"></i>
           </div>
         </div>
+    </div>
+    <div class="col l12 m12 s12 border_social">
     </div>
 
 <!-- <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script> -->
