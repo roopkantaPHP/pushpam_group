@@ -121,7 +121,7 @@ font-family: "Roboto", sans-serif;0
 #pushpam_bg_nav2 ul{
   text-align: center;
   vertical-align: middle;
-  line-height: 517%;
+  line-height: 514%;
   margin-right: 7%;
 }
 
@@ -549,4 +549,55 @@ border: 1px solid #62c34e;
 width: 9%;
 transform: translateX(-50%);
 }
+.team_font_size {
+     font-size: 14px;
+    word-wrap: break-word;
+    color: #999;
+    text-align: justify !important;
+}
+.green_arrow_chrome{
+  margin-top: -11%;
+  z-index: 2;
+}
+.business-options{
+  /*display: inline-flex;*/
+  width: 80%;
+}
+.founder_chrome{
+  width: 40%;
+  border: 2px solid #62C34E;
+  margin-left: 30%;
+  margin-top: 1%;
+  border-radius: 6px;
+  height: 18%;
+}
+/*.team_font_size{
+  font-size: 14px;
+  word-wrap: break-word;
+  color: #999;
+  text-align: justify !important;
+}*/
+.founder_chrome_big{
+width: 42%;
+border: 2px solid #62C34E;
+margin-left: 29%;
+margin-top: 2%;
+border-radius: 6px;
+height: 19%;
+}
+.center-floater{
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.center-floater-item{
+  padding: 2px;
+}
+.management-options{
+padding-left: 16%;
+padding-right: 14%;
+}
+.parallax-container{
+  width: 100%;
 }
