@@ -500,7 +500,7 @@ margin-bottom: 48px;
 }
 .small-title-footer::after {
   top: 8px;
-  left: 6%;
+  left: 4%;
   bottom: 0;
   position: relative;
   display: inherit;
@@ -519,7 +519,7 @@ bottom: 0;
 position: relative;
 display: inherit;
 border: 1px solid #62c34e;
-width: 9%;
+width: 4%;
 transform: translateX(-50%);
 }
 .team_font_size {
