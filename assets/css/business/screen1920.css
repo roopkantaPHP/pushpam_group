@@ -1,0 +1,15 @@
+@media only screen and (width: 1920px) {
+  .ul_sub_menu {
+      margin-left: -11%;
+    }
+
+  #pushpam_bg_nav2 {
+      height: 10%;
+  }
+  #pushpam_bg_nav2 ul {
+    line-height: 625%;
+  }
+  /*.para1_aboutus {
+    margin-left: 360px;
+    width: 67%;
+}*/
