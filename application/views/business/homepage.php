@@ -152,7 +152,7 @@
     <div class="message">
       <div class="container contact">
         <p class="pushpam_text_white">Help us serve you better. Drop a message below and we will get back to you at the earliest.</p>
-        <form class="col s6 l12 m12">
+        <form  id="myform"  name="registration" class="col s6 l12 m12">
           <div class="row">
             <div class="input-field col s2 m6 l6">
               <input id="first_name" type="text" class="validate">
@@ -176,7 +176,7 @@
           <div class="row">
             <div class="input-field col s6 m12 l12">
               <textarea id="textarea1" class="materialize-textarea" class="validate"></textarea>
-              <label for="textarea1">Textarea</label>
+              <label for="textarea1">Interests/ Questions</label>
             </div>
           </div>
           <div class="row center">
@@ -205,8 +205,75 @@
 </body>
 <!-- <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script> -->
 <script>
-$(document).ready(function(){
-      $('.slider').slider();
-    });
+$(document).ready(function () {
+  console.log('Doc ready');
+ $("#myform").validate({
+      // Specify the validation rules
+      rules: {
+      first_name:"required",
+      last_name:"required",
+      email:{
+        required:true,
+        email:true
+      },
+      company_name:{
+        required:true,
+        minlength:5
+      },
+      password_confirmation:{
+       required:true,
+       minlength:5,
+       equalTo:password
+      },
 
+           },
+
+           // Specify the validation error messages
+           messages: {
+             first_name:"please enter ur first_name",
+                    last_name:"please enter ur last name",
+                    password:{
+                      required:"please provide a password",
+                      minlength:"your password must be at least 5 characters long"
+                    },
+                    password_confirmation:{
+                      required:"please provide a password",
+                      minlength:"your password must be at least 5 characters long",
+                      equalTo:"please enter the same password as above"
+                    }
+           },
+
+           submitHandler: function(form) {
+
+             console.log('done');
+              //  form.submit();
+
+              $.ajax({
+                    type:"POST",
+                    url :"<?php echo site_url('user/register'); ?>",
+                    data :$('#myform').serialize(),
+                    success: function(response){
+                      var result = JSON.parse(response);
+                      result.status = 0;
+                      if(result.email == 1 ){ //email exists
+                          $('.text_validate').removeClass('hide');
+                        if(result.status == 0){//verification link has been sent already
+                          $('#report').text('Varification link is already sent for this email id');
+                        }else if(result.status == 1){ //verification link has been sent now
+                            $('#report').text('A varification link is sent to your email id');
+                        }else{
+                            $('#report').text('Email is already registered');
+                        }
+                        $('#report').addClass('text-danger');
+
+
+                      }
+                    }
+
+              });
+           }
+});
+
+
+});
 </script>
