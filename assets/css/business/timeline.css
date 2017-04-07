@@ -1,0 +1,146 @@
+
+.cntl-bar-fill {
+    background-color: green!important;
+    top: 37px;
+
+  }
+  .cntl-icon {
+    border:none;
+    background: green;
+    line-height: 78px;
+    top: -38px;
+    font-size: 23px;
+  }
+  .down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+i {
+border: solid white;
+border-width: 0 5px 5px 0;
+display: inline-block;
+padding: 9px;
+
+
+}
+.founder_chrome{
+width: 35%;
+border: 2px solid #62C34E;
+margin-left: 33%;
+margin-top: 0%;
+border-radius: 6px;
+height: 25%;
+}
+.founder_sub{
+margin-left:29px;
+margin-top:2.5%;
+}
+.time_text{
+margin-left: -17%;
+}
+.green_arrow_chrome{
+margin-top: -11%;
+z-index: 2;
+}
+.overlap_img{
+margin-left: -41%;
+}
+
+img.responsive-img, video.responsive-video {
+  max-width: 100%;
+  height: auto;
+}
+.circle {
+  border-radius: 50%;
+}
+/*.cntl-bar-fill {
+top: 37px;
+}*/
+.cntl-bar {
+top: 129px;
+
+}
+.UpperTitle
+{
+text-align: center;
+padding: 40px 0;
+background-color: #CEDEF4;
+font-weight:bold;
+/*color: #224499;*/
+border-radius: 10px;
+position: rela1tive;
+
+}
+.timeline_li {
+
+
+}
+/*.timeline ul li::after {
+content: '';
+position: absolute;
+left: 50%;
+bottom: 0;
+transform: translateX(-50%);
+width: 30px;
+height: 30px;
+border-radius: 50%;
+background: inherit;
+}*/
+
+.detail_time_odd {
+position: relative;
+bottom: 107px;
+width: 400px;
+padding: 15px;
+background: #fff;
+border-radius: 4px;
+margin-left: 53%;
+}
+.detail_time_even {
+position: relative;
+bottom: 107px;
+width: 400px;
+padding: 15px;
+background: #fff;
+border-radius: 4px;
+margin-left: 26%;
+}
+
+.timeline_li div::before {
+content: '';
+position: absolute;
+bottom: 7px;
+width: 0;
+height: 0;
+border-style: solid;
+}
+.timeline_li_after div::after {
+content: '';
+position: absolute;
+bottom: 27px;
+width: 0;
+height: 0;
+border-style: solid;
+}
+
+
+
+.timeline_li div::before {
+left: -15px;
+border-width: 8px 16px 8px 0;
+border-color: transparent #fff transparent transparent;
+}
+.timeline_li_after div::after {
+left: -17px;
+border-width: 8px 0 8px 16px;
+border-color: transparent transparent transparent #fff;
+}
+.timeline ul li:nth-child(even) div {
+left: -439px;
+}
+
+.timeline ul li:nth-child(even) div::before {
+right: -15px;
+border-width: 8px 0 8px 16px;
+border-color: transparent transparent transparent #fff;
+}

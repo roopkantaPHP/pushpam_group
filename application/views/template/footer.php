@@ -50,7 +50,13 @@
       $('.parallax').parallax();
       $('ul.tabs').tabs('select_tab', 'tab_id');
       $('.slider').slider();
-
+      $('.cntl').cntl({
+  			revealbefore: 300,
+  			anim_class: 'cntl-animate',
+  			onreveal: function(e){
+  				console.log(e);
+  			}
+  		});
 
   });
 

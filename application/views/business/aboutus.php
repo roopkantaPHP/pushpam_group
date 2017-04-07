@@ -44,7 +44,7 @@
           </div>
         </div>
       </div>
-      <div class="icon-block center hide">
+      <div class="icon-block center">
         <h4 class="pushpam_text_green heading_font"><b>PUSHPAM GROUP TIMELINE </b></h4>
         <img class ="grey lighten-3 icon_underline" src="assets/images/main/underline.png" alt=""></img>
         <div class="smaller">

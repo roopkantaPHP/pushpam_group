@@ -259,20 +259,20 @@ section{
   border-style: solid;
 }
 
-.timeline ul li:nth-child(odd) div {
+.timeline ul li:nth-child(even) div {
   left: 45px;
 }
 
-.timeline ul li:nth-child(odd) div::before {
+.timeline ul li:nth-child(even) div::before {
   left: -15px;
   border-width: 8px 16px 8px 0;
   border-color: transparent #fff transparent transparent;
 }
-.timeline ul li:nth-child(even) div {
+.timeline ul li:nth-child(odd) div {
   left: -439px;
 }
 
-.timeline ul li:nth-child(even) div::before {
+.timeline ul li:nth-child(odd) div::before {
   right: -15px;
   border-width: 8px 0 8px 16px;
   border-color: transparent transparent transparent #fff;
