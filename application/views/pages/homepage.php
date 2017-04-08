@@ -90,11 +90,16 @@
        laudantium, totam aperiam, eaque ipsa quae ab illo inventore.Dummy content  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
            laudantium, totam aperiam, eaque ipsa quae ab illo inventore.Dummy content  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
                laudantium, totam aperiam, eaque ipsa quae ab illo inventore.</p>
-
+               <!-- <button data-target="modal1" class="my_team btn">Modal</button> -->
        <div  class="center-floater row">
                              <!-- <div class="col l2 m2 s2 center-floater-item"> -->
            <div class="material-placeholder">
-             <img src="assets/images/test/m1.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> <span class="name">Veena RS</span> <br> Managing director </div>
+             <a class="modal-trigger my_team" href="#modal1"><img  src="assets/images/test/m1.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1">
+             </a>
+             <div class="name_team tile-sections__link-subtitle">
+               <br>
+               <span class="name">Veena RS
+               </span> <br> Managing director </div>
            </div>
          <!-- </div> -->
          <!-- <div class="col l2 m2 s2 center-floater-item"> -->
@@ -134,6 +139,7 @@
 
 
 </div>
+
 <div class="pushpam_border pushpam-form">
     <div class="message">
       <div class="container contact">
@@ -189,6 +195,25 @@
         </div>
     </div>
     <div class="col l12 m12 s12 border_social">
+    </div>
+    <div id="modal1" class="modal">
+        <div class="modal-content">
+          <h4><img src="assets/images/icons/close.jpg" style="float:right;"></h4>
+          <div class="center-floater row">
+          <div class="col l1 m1 s1"><img src="assets/images/icons/left.png"></div>
+          <div class="col l4 m4 s4">
+            <div class="material-placeholder center-floater-item">
+            <img src="assets/images/test/m1.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1">
+
+          </div></div>
+          <div class="col l6 m6 s6">  <div class="name_team tile-sections__link-subtitle"><br>
+              <span class="name"> Dr. Manjunath Reddy </span> <br> CEO </div></div>
+          <div class="col l1 m1 s1"><img src="assets/images/icons/right.png" style="float:right;"></div>
+        </div>
+        <!-- <div class="modal-footer">
+          <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
+        </div> -->
+      </div>
     </div>
 
 <!-- <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script> -->

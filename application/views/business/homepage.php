@@ -108,7 +108,7 @@
                            <div  class="center-floater row">
                              <!-- <div class="col l2 m2 s2 center-floater-item"> -->
                                <div class="material-placeholder">
-                                 <img src="assets/images/test/m1.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> Veena RS <br> Managing director </div>
+                                 <img src="assets/images/test/m1.jpg"   class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> Veena RS <br> Managing director </div>
                                </div>
                              <!-- </div> -->
                              <!-- <div class="col l2 m2 s2 center-floater-item"> -->
@@ -148,6 +148,7 @@
 
 
 </div>
+
 <div class="pushpam_border pushpam-form">
     <div class="message">
       <div class="container contact">

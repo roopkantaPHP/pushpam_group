@@ -47,6 +47,7 @@
   </footer>
   <script>
   $(document).ready(function(){
+    $('#modal1').modal();
       $('.parallax').parallax();
       $('ul.tabs').tabs('select_tab', 'tab_id');
       $('.slider').slider();
@@ -57,6 +58,10 @@
   				console.log(e);
   			}
   		});
+    $('.my_team').click(function(){
+      $('#modal1').modal('open');
+    });
+
 
   });
 

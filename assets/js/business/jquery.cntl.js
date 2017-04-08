@@ -46,8 +46,8 @@
 
                     if( states[i].top > windowtop && states[i].top < windowbtm )
                     {
-                        if ( 
-                            !states[i].elm.hasClass( settings.anim_class ) && 
+                        if (
+                            !states[i].elm.hasClass( settings.anim_class ) &&
                             $.isFunction( settings.onreveal ) )
                         {
                             settings.onreveal.call( this, states[i].elm );

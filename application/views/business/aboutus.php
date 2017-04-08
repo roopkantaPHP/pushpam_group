@@ -47,72 +47,133 @@
       <div class="icon-block center">
         <h4 class="pushpam_text_green heading_font"><b>PUSHPAM GROUP TIMELINE </b></h4>
         <img class ="grey lighten-3 icon_underline" src="assets/images/main/underline.png" alt=""></img>
-        <div class="smaller">
-          <div class="col l12 m12 s12 offset-m2 l6 offset-l3 founder_moz founder_chrome">
-            <div class="row valign-wrapper">
-              <div class="col l5 m5 s5 founder_sub">
-                <div class="row">
-                  <div class="col l6 m6 s6">
-                    <img src="assets/images/test/m4.jpg" alt="" class="circle responsive-img image1"> <!-- notice the "circle" class -->
-                  </div>
-                  <div class="col l6 m6 s6">
-                    <img src="assets/images/test/m4.jpg" alt="" class="circle responsive-img overlap_img">
-                  </div>
-                </div>
-              </div>
-              <div class="col l7 m7 s7">
-                <span class="black-text time_text">
-                  Dr. Manjunath M and Veena R S founding the company.
-                </span>
-              </div>
-            </div>
-            <img  src="assets/images/business/green_arrow.png" alt="" class="circle responsive-img green_arrow_moz green_arrow_chrome"> </img>
-          </div>
-          <div>
-            <section class="timeline">
-              <ul>
-                <li>
-                  <div class="z-depth-4 UpperTitle">
-                    <img src="assets/images/icons/bulb.png"></img>
-                    <time>1993</time>
-                    Laid the foundation for Pushpam Flora Base
-                  </div>
-                </li>
-                <li>
-                  <div class="z-depth-4 UpperTitle">
-                    <img src="assets/images/icons/flower.png"></img>
-                    <time>2004</time>
-                      Largest exporter of fresh flowers in India
-                  </div>
-                </li>
-                <li>
-                  <div class="z-depth-4 UpperTitle">
-                    <img src="assets/images/icons/build.png"></img>
-        <!-- <i class="fa fa-building-o" aria-hidden="true"></i> -->
-                    <time>2010</time>
-                      Launch our first real estate project Pushpalok
-                  </div>
-                </li>
-                <li>
-                  <div class="z-depth-4 UpperTitle">
-                    <img src="assets/images/icons/imera.png"></img>
-                    <time>2014</time>
-                    Opened the doors of our first resort - Imera
-                  </div>
-                </li>
-                <li>
-                <div class="z-depth-4 UpperTitle">
-                  <img src="assets/images/icons/science.png"></img>
-          <!-- <i class="fa 	fa fa-user-md" aria-hidden="true"></i> -->
-                  <time>2016</time>
-                  Approval of Puspam School of Medicine
-                </div>
-              </li>
-    <!-- more list items here -->
-            </ul>
+        <div class="cntl">
+        	<span class="cntl-bar cntl-center">
+        		<span class="cntl-bar-fill"></span>
+        	</span>
+
+        	<div class="cntl-states">
+        		<div class="col l12 m12 s12 offset-m2 l6 offset-l3 founder_moz founder_chrome">
+        			<div class="row valign-wrapper">
+        				<div class="col l5 m5 s5 founder_sub">
+        					<div class="row">
+        						<div class="col l6 m6 s6">
+        							<img src="http://localhost/time_line/lib/m4.jpg" alt="" class="circle responsive-img image1"> <!-- notice the "circle" class -->
+        						</div>
+        						<div class="col l6 m6 s6">
+        							<img src="http://localhost/time_line/lib/m4.jpg" alt="" class="circle responsive-img overlap_img">
+        						</div>
+        					</div>
+        				</div>
+        				<div class="col l7 m7 s7">
+        					<span class="black-text time_text">
+        						Dr. Manjunath M and Veena R S founding the company.
+        					</span>
+        				</div>
+        			</div>
+
+        		</div>
+        		 <section class="timeline">
+
+        					<div class="cntl-state">
+
+        			<!-- <div class="z-depth-4 UpperTitle cntl-content">
+        				<img src="assets/images/icons/bulb.png"></img>
+        				<time>1993</time>
+        				Laid the foundation for Pushpam Flora Base
+        			</div> -->
+
+        			<div class="cntl-icon cntl-center"><i class="down"></i></div>
+        		</div>
+
+
+
+        <!-- <li class="timeline_li"> -->
+        		<div class="cntl-state timeline_li">
+        			<!-- <div class="cntl-content"> -->
+
+        			<div class="z-depth-4 UpperTitle detail_time_odd ">
+        				<img src="assets/images/icons/bulb.png"></img>
+        				<!-- <time>1993</time> -->
+                  <span class="timeline_text">
+        				Laid the foundation for Pushpam Flora Base
+              </span>
+        			</div>
+        			<!-- </div> -->
+
+        			<!-- <div class="cntl-image">2017</div> -->
+        			<div class="cntl-icon cntl-center">1993</div>
+        		</div>
+        	<!-- </li> -->
+
+        	<div class="cntl-state timeline_li_after">
+        		<!-- <div class="cntl-content"> -->
+
+        		<div class="z-depth-4 UpperTitle detail_time_even ">
+        		  <img src="assets/images/icons/flower.png"></img>
+        			<!-- <time>1993</time> -->
+                <span class="timeline_text">
+        			  Largest exporter of fresh flowers in India
+              </span>
+        		</div>
+        		<!-- </div> -->
+
+        		<!-- <div class="cntl-image">2017</div> -->
+        		<div class="cntl-icon cntl-center">2004</div>
+        	</div>
+
+        	<div class="cntl-state timeline_li">
+        		<!-- <div class="cntl-content"> -->
+
+        		<div class="z-depth-4 UpperTitle detail_time_odd ">
+        			<img src="assets/images/icons/build.png"></img>
+        			<!-- <time>1993</time> -->
+                <span class="timeline_text">
+        			  Launch our first real estate project Pushpalok
+              </span>
+        		</div>
+        		<!-- </div> -->
+
+        		<!-- <div class="cntl-image">2017</div> -->
+        		<div class="cntl-icon cntl-center">2010</div>
+        	</div>
+
+        	<div class="cntl-state timeline_li_after">
+        		<!-- <div class="cntl-content"> -->
+
+        		<div class="z-depth-4 UpperTitle detail_time_even ">
+        		<img src="assets/images/icons/imera.png"></img>
+        			<!-- <time>1993</time> -->
+                <span class="timeline_text">
+        			  Opened the doors of our first resort - Imera
+              </span>
+        		</div>
+        		<!-- </div> -->
+
+        		<!-- <div class="cntl-image">2017</div> -->
+        		<div class="cntl-icon cntl-center">2014</div>
+        	</div>
+          <div class="cntl-state timeline_li">
+        		<!-- <div class="cntl-content"> -->
+
+        		<div class="z-depth-4 UpperTitle detail_time_odd">
+        			  <img src="assets/images/icons/science.png"></img>
+        			<!-- <time>1993</time> -->
+              <span class="timeline_text">
+        			 Approval of Puspam School of Medicine
+             </span>
+        		</div>
+        		<!-- </div> -->
+
+        		<!-- <div class="cntl-image">2017</div> -->
+        		<div class="cntl-icon cntl-center">2016</div>
+        	</div>
         </section>
-      </div>
-    </div>
+
+        	</div>
+
+
+        </div>
   </div>
 
 <!-- ============================================== -->
