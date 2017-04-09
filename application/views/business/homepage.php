@@ -100,10 +100,9 @@
                <!-- </a> -->
                    <!-- <h2 class="center brown-text"><i class="material-icons">flash_on</i></h2> -->
                  <p class="light team_font_size mobile_margin business_icon_text">
-                   Dummy content  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                   laudantium, totam aperiam, eaque ipsa quae ab illo inventore.Dummy content  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                       laudantium, totam aperiam, eaque ipsa quae ab illo inventore.Dummy content  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-                           laudantium, totam aperiam, eaque ipsa quae ab illo inventore.</p>
+                   The group is a 20 year old multinational organization operating across Real Estate, Agro business, Floriculture, Trading, Hospitality, Healthcare and Education
+                   Built on values, morale, integrity & transparency.
+                         </p>
 
                            <div  class="center-floater row">
                              <!-- <div class="col l2 m2 s2 center-floater-item"> -->

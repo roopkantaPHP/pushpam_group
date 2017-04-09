@@ -58,10 +58,10 @@
         				<div class="col l5 m5 s5 founder_sub">
         					<div class="row">
         						<div class="col l6 m6 s6">
-        							<img src="http://localhost/time_line/lib/m4.jpg" alt="" class="circle responsive-img image1"> <!-- notice the "circle" class -->
+        							<img src="assets/images/test/m2.jpg" alt="" class="circle responsive-img image1"> <!-- notice the "circle" class -->
         						</div>
         						<div class="col l6 m6 s6">
-        							<img src="http://localhost/time_line/lib/m4.jpg" alt="" class="circle responsive-img overlap_img">
+        							<img src="assets/images/test/m1.jpg" alt="" class="circle responsive-img overlap_img">
         						</div>
         					</div>
         				</div>

@@ -15,6 +15,46 @@
 .map {
     margin-left: 15%;
   }
+  .cntl-bar {
+  top: 139px !important;
+
+  }
+  .detail_time_odd {
+  position: relative;
+  bottom: 38px;
+  width: 400px;
+  padding: 15px;
+  background: #fff;
+  border-radius: 4px;
+  margin-left: 52%;
+  }
+  .timeline_li div::before {
+  left: 48px;
+  border-width: 8px 16px 8px 0;
+  border-color: transparent #fff transparent transparent;
+  }
+  .detail_time_even {
+  position: relative;
+  bottom: 28px;
+  width: 400px;
+  padding: 15px;
+  background: #fff;
+  border-radius: 4px;
+  margin-left: 27%;
+  }
+  .timeline_li_after div::after {
+  left: -23%;
+  border-width: 8px 0 8px 16px;
+  border-color: transparent transparent transparent #fff;
+  }
+  .timeline_li_after div::after {
+  content: '';
+  position: absolute;
+  bottom: 4px;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  }
   /*.para1_aboutus {
     margin-left: 360px;
     width: 67%;

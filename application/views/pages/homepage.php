@@ -7,29 +7,29 @@
           <li>
             <img src="assets/images/main/home1.jpg"> <!-- random image -->
             <div class="caption center-align">
-              <h3>This is our big Tagline!</h3>
-              <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+              <h3 class="light grey-text text-lighten-">This is our big Tagline!</h3>
+              <h5 class="light grey-text text-lighten-">The group is 20 years old </h5>
             </div>
           </li>
           <li>
             <img src="assets/images/main/home2.jpg"> <!-- random image -->
             <div class="caption left-align">
-              <h3>Left Aligned Caption</h3>
-              <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+              <!-- <h3>Left Aligned Caption</h3> -->
+              <h5 class="light grey-text text-lighten-">Multinational Organization.</h5>
             </div>
           </li>
         <li>
           <img src="assets/images/main/home3.jpg"> <!-- random image -->
           <div class="caption right-align">
-            <h3>Right Aligned Caption</h3>
-            <h5 class="light grey-text text-lighten-">Here's our small slogan.</h5>
+            <!-- <h3>Right Aligned Caption</h3> -->
+            <h5 class="light grey-text text-lighten-">Real Estate, Agro business, Floriculture, Trading, Hospitality, Healthcare and Education.</h5>
           </div>
         </li>
         <li>
           <img src="assets/images/main/home4.jpg"> <!-- random image -->
           <div class="caption center-align">
-            <h3>This is our big Tagline!</h3>
-            <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+            <!-- <h3>This is our big Tagline!</h3> -->
+            <h5 class="light grey-text text-lighten-">  Built on values, morale, integrity & transparency.</h5>
           </div>
         </li>
       </ul>
@@ -86,10 +86,9 @@
         </div>
       </div>
       <p class="light team_font_size mobile_margin">
-       Dummy content  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-       laudantium, totam aperiam, eaque ipsa quae ab illo inventore.Dummy content  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-           laudantium, totam aperiam, eaque ipsa quae ab illo inventore.Dummy content  perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-               laudantium, totam aperiam, eaque ipsa quae ab illo inventore.</p>
+        The group is a 20 year old multinational organization operating across Real Estate, Agro business, Floriculture, Trading, Hospitality, Healthcare and Education
+        Built on values, morale, integrity & transparency.
+             </p>
                <!-- <button data-target="modal1" class="my_team btn">Modal</button> -->
        <div  class="center-floater row">
                              <!-- <div class="col l2 m2 s2 center-floater-item"> -->
@@ -168,7 +167,7 @@
           <div class="row">
             <div class="input-field col s6 m12 l12">
               <textarea id="textarea1" class="materialize-textarea" class="validate"></textarea>
-              <label for="textarea1">Textarea</label>
+              <label for="textarea1">Message</label>
             </div>
           </div>
           <div class="row center">
