@@ -3,7 +3,7 @@
 <body>
     <div class="l12 m12 s12">
       <div class="slider">
-        <ul class="slides">
+        <ul class="slides" >
           <li>
             <img src="assets/images/main/home1.jpg"> <!-- random image -->
             <div class="caption center-align">
@@ -93,8 +93,9 @@
        <div  class="center-floater row">
                              <!-- <div class="col l2 m2 s2 center-floater-item"> -->
            <div class="material-placeholder">
-             <a class="modal-trigger my_team" href="#modal1"><img  src="assets/images/test/m1.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1">
-             </a>
+             <!-- <a class="modal-trigger my_team" href="#modal1"> -->
+               <img  src="assets/images/test/dummy.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1">
+             <!-- </a> -->
              <div class="name_team tile-sections__link-subtitle">
                <br>
                <span class="name">Veena RS
@@ -103,22 +104,22 @@
          <!-- </div> -->
          <!-- <div class="col l2 m2 s2 center-floater-item"> -->
            <div class="material-placeholder center-floater-item">
-             <img src="assets/images/test/m2.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> <span class="name"> Dr. Manjunath Reddy </span> <br> CEO </div>
+             <img src="assets/images/test/dummy.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> <span class="name"> Dr. Manjunath Reddy </span> <br> CEO </div>
            </div>
          <!-- </div> -->
          <!-- <div class="col l2 m2 s2 center-floater-item"> -->
            <div class="material-placeholder center-floater-item">
-             <img src="assets/images/test/m3.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> <span class="name">Abhiram M </span> <br>Managing Director </div>
+             <img src="assets/images/test/dummy.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> <span class="name">Abhiram M </span> <br>Managing Director </div>
            </div>
          <!-- </div> -->
          <!-- <div class="col l2 m2 s2 center-floater-item"> -->
            <div class="material-placeholder center-floater-item">
-             <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br><span class="name"> Akshay M Reddy </span><br>Managing Director </div>
+             <img src="assets/images/test/dummy.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br><span class="name"> Akshay M Reddy </span><br>Managing Director </div>
            </div>
          <!-- </div> -->
          <!-- <div class="col l2 m2 s2 center-floater-item"> -->
            <div class="material-placeholder center-floater-item">
-             <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br>  <span class="name">Radha R S </span> <br>Purchase Manager</div>
+             <img src="assets/images/test/dummy.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br>  <span class="name">Radha R S </span> <br>Purchase Manager</div>
            </div>
                              <!-- </div> -->
          </div>

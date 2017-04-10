@@ -47,6 +47,7 @@
   </footer>
   <script>
   $(document).ready(function(){
+    // $('.slides').css({"height":"520px"});
     $('#modal1').modal();
       $('.parallax').parallax();
       $('ul.tabs').tabs('select_tab', 'tab_id');
@@ -58,9 +59,9 @@
   				console.log(e);
   			}
   		});
-    $('.my_team').click(function(){
-      $('#modal1').modal('open');
-    });
+  $('.my_team').click(function(){
+    $('#modal1').modal('open');
+  });
 
 
   });

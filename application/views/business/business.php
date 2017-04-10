@@ -7,7 +7,7 @@
       <div class="para1 icon-block center row management-options">
       <div class="col l12 s12 m12 center">
     <div class="icon-block">
-      <h4 class="pushpam_text_green col s12 m12 l12"><?PHP echo $business_name; ?></h4>
+      <h4 class="pushpam_text_green col s12 m12 l12 heading_font detail"><?PHP echo $business_name; ?></h4>
       <img class ="grey lighten-3 icon_underline" src="assets/images/main/underline.png" alt=""></img>
     </div>
   </div>
@@ -41,7 +41,7 @@
   <div class="row para1  icon-block center">
       <div class="col l12 s12 m12">
         <div class="icon-block center">
-          <h4 class="header center pushpam_text_green heading_font pushpam_font"><b>OUR BUSINESSES</b></h4>
+          <h4 class="header center pushpam_text_green heading_font pushpam_font">OUR BUSINESSES</h4>
           <img class ="grey lighten-3 icon_underline" src="assets/images/main/underline.png" alt="">
         </div>
       </div>

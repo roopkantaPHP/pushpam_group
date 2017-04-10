@@ -4,7 +4,7 @@
       </div>
     </div>
     <div class="container icon-block center">
-      <div class="">
+      <div class="detail">
         <p class="light team_font_size mobile_margin">
         The group is a 20 year old multinational organization operating across Real Estate, Agro business, Floriculture, Trading, Hospitality, Healthcare and Education. The group strives to create meaningful living spaces, improve human well-being and empower through power of knowledge, health, wellness and happiness. Pushpam Group is headed by Mrs. Veena R.S. as Chairperson and Dr N.Manjunatha Reddy as CEO. He has brought in 3 decades of management expertise in all fields of management to the Group. Very widely travelled, with exposure to more than a decade of high living in the Middle East, UK, Europe and Asia. Since inception, he has instilled in the Group a very strong sense of quality and values. His leadership skills, attention to details and customer centric approach has percolated to all the levels of our organization thereby helping us to be one of the best in the industry.
       </p>

@@ -58,10 +58,10 @@
         				<div class="col l5 m5 s5 founder_sub">
         					<div class="row">
         						<div class="col l6 m6 s6">
-        							<img src="assets/images/test/m2.jpg" alt="" class="circle responsive-img image1"> <!-- notice the "circle" class -->
+        							<img src="assets/images/test/dummy.jpg" alt="" class="circle responsive-img image1"> <!-- notice the "circle" class -->
         						</div>
         						<div class="col l6 m6 s6">
-        							<img src="assets/images/test/m1.jpg" alt="" class="circle responsive-img overlap_img">
+        							<img src="assets/images/test/dummy.jpg" alt="" class="circle responsive-img overlap_img">
         						</div>
         					</div>
         				</div>
@@ -179,7 +179,7 @@
 <!-- ============================================== -->
 
 <div class="icon-block center happy_team">
-  <h4 class="pushpam_text_green col s12 m12 l12 heading_font"><b>OUR Happy Team</b></h4>
+  <h4 class="pushpam_text_green col s12 m12 l12 heading_font"><b>OUR HAPPY TEAM</b></h4>
   <img class ="grey lighten-3 icon_underline" src="assets/images/main/underline.png" alt=""></img>
   <div class="para1_aboutus light team_font_size mobile_margin business_icon_text">
     <p class="light team_font_size mobile_margin happyteam">
@@ -191,22 +191,22 @@
     <div class="center-floater row">
       <!-- <div class="col l3 m3 s3"> -->
         <div class="material-placeholder">
-          <img src="assets/images/test/m1.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"></img><div class="name_team"><div class="name_team tile-sections__link-subtitle"><br><span class="name">Wilson </span><br>GM - Sales</div></div>
+          <img src="assets/images/test/dummy.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"></img><div class="name_team"><div class="name_team tile-sections__link-subtitle"><br><span class="name">Wilson </span><br>GM - Sales</div></div>
         </div>
       <!-- </div> -->
       <!-- <div class="col l3 m3 s3"> -->
         <div class="material-placeholder">
-          <img src="assets/images/test/m2.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><div class="name_team"><div class="name_team tile-sections__link-subtitle"><br><span class="name">Krishna Murthy </span><br> Account Manager</div></div>
+          <img src="assets/images/test/dummy.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><div class="name_team"><div class="name_team tile-sections__link-subtitle"><br><span class="name">Krishna Murthy </span><br> Account Manager</div></div>
         </div>
       <!-- </div> -->
       <!-- <div class="col l3 m3 s3"> -->
         <div class="material-placeholder">
-          <img src="assets/images/test/m3.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><div class="name_team"><div class="name_team tile-sections__link-subtitle"><br> <span class="name">Vijay Krishna </span><br>Purshase Manager</div></div>
+          <img src="assets/images/test/dummy.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><div class="name_team"><div class="name_team tile-sections__link-subtitle"><br> <span class="name">Vijay Krishna </span><br>Purshase Manager</div></div>
         </div>
       <!-- </div> -->
       <!-- <div class="col l3 m3 s3"> -->
           <div class="material-placeholder">
-            <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><div class="name_team"><div class="name_team tile-sections__link-subtitle"><br><span class="name">Shweta Arora </span><br>Human Resource</div></div>
+            <img src="assets/images/test/dummy.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><div class="name_team"><div class="name_team tile-sections__link-subtitle"><br><span class="name">Shweta Arora </span><br>Human Resource</div></div>
           </div>
         <!-- </div> -->
       </div>

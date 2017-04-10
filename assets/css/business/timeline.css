@@ -1,13 +1,13 @@
 
 .cntl-bar-fill {
-    background-color: #62C34E!important;
+    background-color: #75B543!important;
     top: 37px !important;
     /*height: 8% !important;*/
 
   }
   .cntl-icon {
     border:none !important;
-    background: #62C34E !important;
+    background: #75B543 !important;
     line-height: 52px !important;
     top: -38px !important;
     font-size: 13px !important;
@@ -58,10 +58,7 @@ img.responsive-img, video.responsive-video {
 /*.cntl-bar-fill {
 top: 37px;
 }*/
-.cntl-bar {
-top: 90px !important;
 
-}
 .UpperTitle
 {
 text-align: center;
@@ -155,7 +152,5 @@ border-color: transparent transparent transparent #fff;
 }
 
 .cntl-bar {
-
     bottom: 31px !important;
-
 }

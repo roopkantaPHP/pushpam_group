@@ -13,11 +13,11 @@
       <div class="col l4 s4 m4">
         <div class="material-placeholder">
            <img src="assets/images/contact/india.jpg" class="materialboxed responsive-img z-depth-1 initialized contact_img"  alt="Unsplashed background img 1"><p style="text-align:left !important;"><b>India</b><br>
-           <span>#29 (old no. 416)</span>
+           <!-- <span>#29 (old no. 416)</span>
            <br>
            <span>18th Main,4 T Block</span>
            <br>Jayanagar, Bangalore 560041
-            </p>
+            </p> -->
            <br>
            <button class="map_button">View on map</button>
         </div>
@@ -25,10 +25,11 @@
       <div class="col l4 s4 m4">
         <div class="material-placeholder">
           <img src="assets/images/contact/usa.jpg" class="materialboxed responsive-img z-depth-1 initialized contact_img"  alt="Unsplashed background img 1"><p style="text-align:left !important;"><b>USA</b><br>
-          <span>#29 (old no. 416) </span>
+          <!-- <span>#29 (old no. 416) </span>
           <br>
-          <span>18th Main,4 T Block</span><br>Jayanagar, Bangalore 560041
-          </p>
+          <span>18th Main,4 T Block</span>
+          <br>Jayanagar, Bangalore 560041
+          </p> -->
           <br>
         <button class="map_button">View on map</button>
         </div>
@@ -36,10 +37,11 @@
       <div class="col l4 s4 m4">
         <div class="material-placeholder">
           <img src="assets/images/contact/london.jpg" class="materialboxed responsive-img z-depth-1 initialized contact_img"  alt="Unsplashed background img 1"><p style="text-align:left !important;"><b>London</b><br>
-          <span>#29 (old no. 416) </span>
+          <!-- <span>#29 (old no. 416) </span>
           <br>
           <span>18th Main,4 T Block</span><br>Jayanagar, Bangalore 560041
-          </p><br>
+          </p> -->
+          <br>
           <button class="map_button">View on map</button>
         </div>
       </div>
@@ -48,20 +50,22 @@
       <div class="col l4 s4 m4">
           <div class="material-placeholder">
             <img src="assets/images/contact/uae.jpg" class="materialboxed responsive-img z-depth-1 initialized contact_img"  alt="Unsplashed background img 1"><p style="text-align:left !important;"><b>UAE</b><br>
-            <span>#29 (old no. 416) </span>
+            <!-- <span>#29 (old no. 416) </span>
             <br>
             <span>18th Main,4 T Block</span><br>Jayanagar, Bangalore 560041
-          </p><br>
+          </p> -->
+          <br>
           <button class="map_button">View on map</button>
           </div>
         </div>
         <div class="col l4 s4 m4">
             <div class="material-placeholder">
               <img src="assets/images/contact/southafrica.jpg" class="materialboxed responsive-img z-depth-1 initialized contact_img"  alt="Unsplashed background img 1"><p style="text-align:left !important;"><b>South Africa</b><br>
-              <span><strong>#29 (old no. 416) </strong></span>
+              <!-- <span><strong>#29 (old no. 416) </strong></span>
               <br>
               <span>18th Main,4 T Block</span> <br>Jayanagar, Bangalore 560041
-              </p><br>
+              </p> -->
+              <br>
               <button class="map_button">View on map</button>
             </div>
           </div>

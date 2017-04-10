@@ -1,6 +1,6 @@
 
   body{
-    font-family: AvertaStd-Regular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: Open Sans;
   }
   .pushpam_black_font{
     color:black !important;
@@ -46,7 +46,7 @@
 
 
 .pushpam_bg{
-    background-color: #62C34E !important;
+    background-color: #75B543 !important;
 
 }
 .contact_img{
@@ -69,13 +69,14 @@
   border: 2px solid #62C34E;
   height: 44px;
   width: 132px;
+  margin-bottom: 30px;
 }
 .career_button{
   float: left;
-  background-color: #62C34E;
+  background-color: #75B543;
   color: #fff;
   border-radius: 7px;
-  border: 2px solid #62C34E;
+  border: 2px solid #75B543;
   height: 27px;
   width: 75px;
   margin-top: 15px;
@@ -102,13 +103,13 @@
 }
 
 .menu_pus li.active a{
-  color: #62C34E !important;
+  color: #75B543 !important;
   background-color: #fff !important;
   font-weight: bold
 }
 
 .pushpam_text_green{
-  color: #62C34E !important;
+  color: #75B543 !important;
 
 }
 .pushpam_text_white{
@@ -125,7 +126,7 @@
 }
 
 .btn:hover{
-  background-color: #62C34E!important;
+  background-color: #75B543 !important;
 }
 
 /*.pushpam_team_width{
@@ -156,7 +157,7 @@ footer{
 }
 
 .fa-envelope ,.fa-phone, .fa-map-marker, .fa-lightbulb-o, .fa-building-o, .fa-user-md{
-  color:#62C34E;
+  color:#75B543;
 
 }
 .contact{
@@ -174,7 +175,7 @@ footer{
   margin-top: 10px;
 }
 .pushpam-form{
-  background-color: #62C34E !important;
+  background-color: #75B543 !important;
 }
 #first_name, #last_name,#email, #company_name, #textarea1{
   background-color: #fff;
@@ -203,7 +204,7 @@ word-wrap: break-word;
 
 .founder{
 width: 34%;
-border: 2px solid #62C34E;
+border: 2px solid #75B543;
 margin-left: 33%;
 margin-top: 3%;
 border-radius: 6px;
@@ -286,7 +287,7 @@ section{
 
 }
 .media_pushpam .tab a.active{
-  color: #62C34E !important;
+  color: #75B543 !important;
   font-weight: bold !important;
 }
 
@@ -316,7 +317,7 @@ margin-bottom: 48px;
 .coverage, .coverage a {
   font-size: 16px;
   color: #635856;
-  font-family: myriad;
+  font-family: Open Sans;
 }
 
 .zoom {
@@ -362,8 +363,8 @@ margin-bottom: 48px;
   border-bottom: 2px solid #B0B0B0 !important;
 }
 .heading_font{
-  font-family: AvertaStd-Regular,"Helvetica Neue",Helvetica,Arial,sans-serif;
-  font-size: 30px;
+  font-family:Open Sans;
+  font-size: 26px;
   /*margin: 30px auto;*/
 }
 .business_icon_text{
@@ -389,14 +390,14 @@ margin-bottom: 48px;
 .sub_head_text{
   float:left;
   margin-left:8%;
-  font-family: AvertaStd-Regular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family: Open Sans;
   font-size: 16px;
   color: #B0B0B0;
 }
 .login{
   float:left;
   margin-left:53%;
-  font-family: AvertaStd-Regular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family:Open Sans;
   font-size: 13px;
   color: #B0B0B0;`
   vertical-align: middle;
@@ -405,7 +406,7 @@ margin-bottom: 48px;
 }
 .ul_sub_menu{
   margin-left:6%;
-  font-family: AvertaStd-Regular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-family:Open Sans;
   font-size: 16px;
   color: #B0B0B0;
   line-height: 57px;
@@ -513,10 +514,12 @@ width: 4%;
 transform: translateX(-50%);
 }
 .team_font_size {
-     font-size: 14px;
+     font-size: 16px;
     word-wrap: break-word;
     color: #999;
     text-align: justify !important;
+    /*padding-top: 9% !important;*/
+    /*padding-bottom: 2%;*/
 }
 .green_arrow_chrome{
   margin-top: -11%;
@@ -569,4 +572,10 @@ padding-right: 14%;
 }
 .map{
   margin-left: 13%
+}
+.detail{
+  margin-top: 43px;
+}
+.tabs .tab{
+  text-transform: capitalize !important;
 }
