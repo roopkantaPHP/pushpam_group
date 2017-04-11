@@ -22,7 +22,7 @@
                 <div class=" small-title-aboutus small-title text-center company__offices-title"></div>
               </span>
               <div class="para1_aboutus vision">
-                <p class="light team_font_size mobile_margin pushpam_black_font">
+                <p class="light team_font_size mobile_margin pushpam_black_font sub_detail">
                 Play a pioneering role in Realty Sector and create landmarks that are sustainable & add value to the environment, thus transforming the way we build, live and work.
               </p>
               </div>
@@ -35,7 +35,7 @@
                 <div class=" small-title-aboutus small-title text-center company__offices-title"></div>
               </span>
               <div class="para1_aboutus mision">
-                <p class="light team_font_size mobile_margin pushpam_black_font">
+                <p class="light team_font_size mobile_margin pushpam_black_font sub_detail">
                   Develop safe, eco-friendly and self sustainable living communities.
                   Develop safe, eco-friendly and self sustainable living communities.
 

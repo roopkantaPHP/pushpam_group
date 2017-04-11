@@ -29,12 +29,12 @@
             <a href="assets/images/press_coverage/01.jpg" class="zoom tooltip" rel="prettyPhoto[gallery]">
               <div style="position:relative;"><img src="assets/images/press_coverage/01.jpg" width="188" height="255">
                 <img src="assets/images/icons/zoom.png" alt="" style="position:absolute; width:33px; height:33px; top:0px; right:0px;  padding:0px; border:none;" width="33" height="33" border="0"></div>
-                <span></span>
+                <!-- <span></span>
                 <p style="text-align:left !important;">Pushpam Group Best Winner <br>
                 <span><strong>2016 Awards</strong></span>
                 <br>
                 <span>Tue, 14<sup>th</sup> Feb 2017 </span>
-              </p></a>
+              </p></a> -->
             </div>
           </div>
           <div class="col l3 m3 s3">
@@ -42,12 +42,12 @@
               <a href="assets/images/press_coverage/02.jpg" class="zoom tooltip" rel="prettyPhoto[gallery]">
               <div style="position:relative;"><img src="assets/images/press_coverage/02.jpg" width="188" height="255">
                 <img src="assets/images/icons/zoom.png" alt="" style="position:absolute; width:33px; height:33px; top:0px; right:0px;  padding:0px; border:none;" width="33" height="33" border="0"></div>
-                <span></span>
+                <!-- <span></span>
                 <p style="text-align:left !important;">Pushpam Group Best Winner<br>
                 <span><strong>National</strong></span>
                 <br>
                 <span>Tue, 14<sup>th</sup> Feb 2017 </span>
-                </p></a>
+                </p></a> -->
             </div>
           </div>
           <div class="col l3 m3 s3">
@@ -55,12 +55,12 @@
               <a href="assets/images/press_coverage/03.jpg" class="zoom tooltip" rel="prettyPhoto[gallery]">
                 <div style="position:relative;"><img src="assets/images/press_coverage/03.jpg" width="188" height="255">
                   <img src="assets/images/icons/zoom.png" alt="" style="position:absolute; width:33px; height:33px; top:0px; right:0px;  padding:0px; border:none;" width="33" height="33" border="0"></div>
-                  <span></span>
+                  <!-- <span></span>
                   <p style="text-align:left !important;">Pushpam Group Best Winner<br>
                     <span><strong>National</strong></span>
                     <br>
                     <span>Tue, 14<sup>th</sup> Feb 2017 </span>
-                  </p></a>
+                  </p></a> -->
               </div>
           </div>
           <div class="col l3 m3 s3">
@@ -68,12 +68,12 @@
               <a href="assets/images/press_coverage/04.jpg" class="zoom tooltip" rel="prettyPhoto[gallery]">
               <div style="position:relative;"><img src="assets/images/press_coverage/04.jpg" width="188" height="255">
               <img src="assets/images/icons/zoom.png" alt="" style="position:absolute; width:33px; height:33px; top:0px; right:0px;  padding:0px; border:none;" width="33" height="33" border="0"></div>
-              <span></span>
+              <!-- <span></span>
               <p style="text-align:left !important;">Pushpam Group Best Winner <br>
               <span><strong>National</strong></span>
               <br>
               <span>Tue, 14<sup>th</sup> Feb 2017 </span>
-              </p></a>
+              </p></a> -->
             </div>
           </div>
           <div class="col l3 m3 s3">
@@ -81,12 +81,12 @@
               <a href="assets/images/press_coverage/05.jpg" class="zoom tooltip" rel="prettyPhoto[gallery]">
               <div style="position:relative;"><img src="assets/images/press_coverage/05.jpg" width="188" height="255">
               <img src="assets/images/icons/zoom.png" alt="" style="position:absolute; width:33px; height:33px; top:0px; right:0px;  padding:0px; border:none;" width="33" height="33" border="0"></div>
-              <span></span>
+              <!-- <span></span>
               <p style="text-align:left !important;">Pushpam Group Best Winner <br>
               <span><strong>National</strong></span>
               <br>
               <span>Tue, 14<sup>th</sup> Feb 2017 </span>
-              </p></a>
+              </p></a> -->
             </div>
           </div>
           <div class="col l3 m3 s3">
@@ -94,12 +94,12 @@
               <a href="assets/images/press_coverage/06.jpg" class="zoom tooltip" rel="prettyPhoto[gallery]">
               <div style="position:relative;"><img src="assets/images/press_coverage/06.jpg" width="188" height="255">
               <img src="assets/images/icons/zoom.png" alt="" style="position:absolute; width:33px; height:33px; top:0px; right:0px;  padding:0px; border:none;" width="33" height="33" border="0"></div>
-              <span></span>
+              <!-- <span></span>
               <p style="text-align:left !important;">Pushpam Group Best Winner<br>
               <span><strong>National</strong></span>
               <br>
               <span>Tue, 14<sup>th</sup> Feb 2017 </span>
-              </p></a>
+              </p></a> -->
             </div>
           </div>
           <div class="col l3 m3 s3">
@@ -107,12 +107,12 @@
               <a href="assets/images/press_coverage/07.jpg" class="zoom tooltip" rel="prettyPhoto[gallery]">
               <div style="position:relative;"><img src="assets/images/press_coverage/07.jpg" width="188" height="255">
               <img src="assets/images/icons/zoom.png" alt="" style="position:absolute; width:33px; height:33px; top:0px; right:0px;  padding:0px; border:none;" width="33" height="33" border="0"></div>
-              <span></span>
+              <!-- <span></span>
               <p style="text-align:left !important;">Pushpam Group Best Winner<br>
               <span><strong>National</strong></span>
               <br>
               <span>Tue, 14<sup>th</sup> Feb 2017 </span>
-              </p></a>
+              </p></a> -->
             </div>
           </div>
           <div class="col l3 m3 s3">
@@ -121,10 +121,10 @@
               <div style="position:relative;"><img src="assets/images/press_coverage/08.jpg" width="188" height="255">
               <img src="assets/images/icons/zoom.png" alt="" style="position:absolute; width:33px; height:33px; top:0px; right:0px;  padding:0px; border:none;" width="33" height="33" border="0"></div>
               <span></span>
-              <p style="text-align:left !important;">Pushpam Group Best Winner<br>
-              <span><strong>National</strong></span>
+              <!-- <p style="text-align:left !important;">Pushpam Group Best Winner<br> -->
+              <!-- <span><strong>National</strong></span> -->
               <br>
-              <span>Tue, 14<sup>th</sup> Feb 2017 </span>
+              <!-- <span>Tue, 14<sup>th</sup> Feb 2017 </span> -->
               </p></a>
               </div>
           </div>
