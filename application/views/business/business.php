@@ -24,9 +24,7 @@
           His leadership skills, attention to details and customer centric approach has percolated
           to all the levels of our organization thereby helping us to be one of the best in the industry.
         </p>
-
     </div>
-
   <div class="container icon-block center happy_team happyteam">
     <div class="para2">
       <div class="row">

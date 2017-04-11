@@ -38,7 +38,7 @@
 |
 */
 
-$route['default_controller'] = "homepage";
+$route['default_controller'] = "business/homepage";
 $route['404_override'] = '';
 $route['about_us.html'] = 'business/aboutus';
 $route['business.html'] = 'business/business';

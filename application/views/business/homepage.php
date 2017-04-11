@@ -1,158 +1,142 @@
 
 
-<body><div class="l12 m12 s12">
-    <div class="slider">
-      <ul class="slides">
-        <li>
-          <img src="assets/images/main/home1.jpg"> <!-- random image -->
-          <div class="caption center-align">
-            <h3>This is our big Tagline!</h3>
-            <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-          </div>
-        </li>
-        <li>
-          <img src="assets/images/main/home2.jpg"> <!-- random image -->
-          <div class="caption left-align">
-            <h3>Left Aligned Caption</h3>
-            <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
-          </div>
-        </li>
+<body>
+    <div class="l12 m12 s12">
+      <div class="slider">
+        <ul class="slides" >
+          <li>
+            <img src="assets/images/main/home1.jpg"> <!-- random image -->
+            <div class="caption center-align">
+              <h3 class="light grey-text text-lighten-">This is our big Tagline!</h3>
+              <h5 class="light grey-text text-lighten-">The group is 20 years old </h5>
+            </div>
+          </li>
+          <li>
+            <img src="assets/images/main/home2.jpg"> <!-- random image -->
+            <div class="caption left-align">
+              <!-- <h3>Left Aligned Caption</h3> -->
+              <h5 class="light grey-text text-lighten-">Multinational Organization.</h5>
+            </div>
+          </li>
         <li>
           <img src="assets/images/main/home3.jpg"> <!-- random image -->
           <div class="caption right-align">
-            <h3>Right Aligned Caption</h3>
-            <h5 class="light grey-text text-lighten-">Here's our small slogan.</h5>
+            <!-- <h3>Right Aligned Caption</h3> -->
+            <h5 class="light grey-text text-lighten-">Real Estate, Agro business, Floriculture, Trading, Hospitality, Healthcare and Education.</h5>
           </div>
         </li>
         <li>
           <img src="assets/images/main/home4.jpg"> <!-- random image -->
           <div class="caption center-align">
-            <h3>This is our big Tagline!</h3>
-            <h5 class="light grey-text text-lighten-3">Here's our small slogan.</h5>
+            <!-- <h3>This is our big Tagline!</h3> -->
+            <h5 class="light grey-text text-lighten-">  Built on values, morale, integrity & transparency.</h5>
           </div>
         </li>
       </ul>
     </div>
   </div>
-    <div>
-      <div class="row para1  icon-block center">
+  <div>
+    <div class="row para1  icon-block center">
         <div class="col l12 s12 m12">
           <div class="icon-block center">
-            <h4 class="header center pushpam_text_green heading_font"><b>OUR BUSINESSES</b></h4>
-            <img class ="grey lighten-3 " src="assets/images/main/underline.png" alt="">
+            <h4 class="header center pushpam_text_green heading_font pushpam_font"><b>OUR BUSINESSES</b></h4>
+            <img class ="grey lighten-3 icon_underline" src="assets/images/main/underline.png" alt="">
           </div>
         </div>
       </div>
-      <div class="para1 icon-block center row business-options">
-        <div class="col l3 m3 s3"><a href="<?php echo base_url("business.html?busi=agri"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/agri-business.png"><p>Agribusiness</p></a></div>
+    <div class="para1 icon-block center row business-options">
+        <div class="col l3 m3 s3"><a href="<?php echo base_url("business.html?busi=agri"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/agri-business.png"><p class="pushpam_font">Agribusiness</p></a></div>
         <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=con"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/construction.png"><p>Construction</p></a></div>
         <div class="col l3 m3 s3">  <a href="<?php echo base_url("business.html?busi=real"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/real-estate.png"><p>Real Estate</p></a></div>
         <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=hos"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/hospitality.png"><p>Hospitality</p></a></div>
       </div>
-      <div class=" para1 icon-block center row business-options">
+    <div class=" para1 icon-block center row business-options">
         <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=it"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/it.png"><p>IT</p></a></div>
         <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=edu"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/education.png"><p>Education</p></a></div>
         <div class="col l3 m3 s3">  <a href="<?php echo base_url("business.html?busi=heal"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/healthcare.png"><p>Healthcare</p></a></div>
         <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=des"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/design-studio.png"><p>Design Studio</p></a></div>
       </div>
-      <div class="para1 icon-block center row business-options">
+    <div class="para1 icon-block center row business-options">
         <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=buil"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/building_materials.png"><p>Building Materials</p></a></div>
         <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=supp"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/supplychain.png"><p>Supply Chain & Warehousing</p></a></div>
         <div class="col l3 m3 s3">  <a href="<?php echo base_url("business.html?busi=fmcg"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/fmcg.png"><p>FMCG</p></a></div>
         <div class="col l3 m3 s3">   <a href="<?php echo base_url("business.html?busi=eng"); ?>" class="business_icon_text"><img class="rig-img" src="assets/images/business/engineering.png"><p>Engineering & Technical</p></a></div>
       </div>
-
-      <div class="para1 icon-block center row business-options stats">
-        <!-- <div class="user_border follower"> -->
-
-        <!-- </div> -->
-
+    <div class="para1 icon-block center row business-options stats">
         <div class="col l3 m3 s3">
-<i class="material-icons">thumb_up</i><h5 class="happyuser">4865</h5><p>Happy User</p>
+        <i class="material-icons">thumb_up</i><h5 class="happyuser">4865</h5><p>Happy Users</p>
         </div>
 
         <div class="col l3 m3 s3">
-<i class="material-icons">perm_identity</i><h5 class="happyuser">4865</h5><p>Followers</p>
+        <i class="material-icons">perm_identity</i><h5 class="happyuser">4865</h5><p>Followers</p>
+    </div>
+    <div class="col l3 m3 s3">
+      <i class="material-icons">grade</i><h5 class="happyuser">4865</h5><p>Achievments</p>
+    </div>
+    <div class="col l3 m3 s3">
+      <i class="material-icons">comment</i><h5 class="happyuser">4865</h5><p>Answered Questions </p>
+    </div>
+    </div>
+    <div class="para1 icon-block center row management-options">
+      <div class="col l12 s12 m12 center">
+        <div class="icon-block">
+        <h4 class="header center pushpam_text_green mobile_text_margin heading_font"><b>MANAGEMENT TEAM</b></h4>
+       <!-- <a href="#model_team" class> -->
+        <img class ="grey lighten-3 icon_underline" src="assets/images/main/underline.png" alt=""></img>
         </div>
-
-        <div class="col l3 m3 s3">
-<i class="material-icons">grade</i><h5 class="happyuser">4865</h5><p>Achievment</p>
-        </div>
-
-        <div class="col l3 m3 s3">
-<i class="material-icons">comment</i><h5 class="happyuser">4865</h5><p>Answered Questions </p>
-        </div>
-
-
-
-
       </div>
-
-      <div class="para1 icon-block center row management-options">
-             <div class="col l12 s12 m12 center">
-               <div class="icon-block">
-                 <h4 class="header center pushpam_text_green mobile_text_margin heading_font"><b>MANAGEMENT TEAM</b></h4>
-               <!-- <a href="#model_team" class> -->
-                 <img class ="grey lighten-3" src="assets/images/main/underline.png" alt=""></img>
-               </div>
-             </div>
-               <!-- <div class="col l12 s12 m12" > -->
-               <!-- </a> -->
-                   <!-- <h2 class="center brown-text"><i class="material-icons">flash_on</i></h2> -->
-                 <p class="light team_font_size mobile_margin business_icon_text">
-                   The group is a 20 year old multinational organization operating across Real Estate, Agro business, Floriculture, Trading, Hospitality, Healthcare and Education
-                   Built on values, morale, integrity & transparency.
-                         </p>
-
-                           <div  class="center-floater row">
+      <p class="light team_font_size mobile_margin">
+        The group is a 20 year old multinational organization operating across Real Estate, Agro business, Floriculture, Trading, Hospitality, Healthcare and Education
+        Built on values, morale, integrity & transparency.
+             </p>
+               <!-- <button data-target="modal1" class="my_team btn">Modal</button> -->
+       <div  class="center-floater row">
                              <!-- <div class="col l2 m2 s2 center-floater-item"> -->
-                               <div class="material-placeholder">
-                                 <img src="assets/images/test/m1.jpg"   class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> Veena RS <br> Managing director </div>
-                               </div>
-                             <!-- </div> -->
-                             <!-- <div class="col l2 m2 s2 center-floater-item"> -->
-                               <div class="material-placeholder center-floater-item">
-                                 <img src="assets/images/test/m2.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br>  Dr. Manjunath Reddy <br> CEO </div>
-                               </div>
-                             <!-- </div> -->
-                             <!-- <div class="col l2 m2 s2 center-floater-item"> -->
-                               <div class="material-placeholder center-floater-item">
-                                 <img src="assets/images/test/m3.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> Abhiram M <br>Managing Director </div>
-                               </div>
-                             <!-- </div> -->
-                             <!-- <div class="col l2 m2 s2 center-floater-item"> -->
-                               <div class="material-placeholder center-floater-item">
-                                 <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> Akshay M Reddy <br>Managing Director </div>
-                               </div>
-                             <!-- </div> -->
-                             <!-- <div class="col l2 m2 s2 center-floater-item"> -->
-                               <div class="material-placeholder center-floater-item">
-                                 <img src="assets/images/test/m4.jpg" class="materialboxed responsive-img z-depth-1 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br>  Radha R S <br>Purchase Manager</div>
-                               </div>
-                             <!-- </div> -->
-                           </div>
+           <div class="material-placeholder">
+             <!-- <a class="modal-trigger my_team" href="#modal1"> -->
+               <img  src="assets/images/test/dummy.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1">
+             <!-- </a> -->
+             <div class="name_team tile-sections__link-subtitle">
+               <br>
+               <span class="name">Veena RS
+               </span> <br> Managing director </div>
+           </div>
+         <!-- </div> -->
+         <!-- <div class="col l2 m2 s2 center-floater-item"> -->
+           <div class="material-placeholder center-floater-item">
+             <img src="assets/images/test/dummy.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> <span class="name"> Dr. Manjunath Reddy </span> <br> CEO </div>
+           </div>
+         <!-- </div> -->
+         <!-- <div class="col l2 m2 s2 center-floater-item"> -->
+           <div class="material-placeholder center-floater-item">
+             <img src="assets/images/test/dummy.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br> <span class="name">Abhiram M </span> <br>Managing Director </div>
+           </div>
+         <!-- </div> -->
+         <!-- <div class="col l2 m2 s2 center-floater-item"> -->
+           <div class="material-placeholder center-floater-item">
+             <img src="assets/images/test/dummy.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br><span class="name"> Akshay M Reddy </span><br>Managing Director </div>
+           </div>
+         <!-- </div> -->
+         <!-- <div class="col l2 m2 s2 center-floater-item"> -->
+           <div class="material-placeholder center-floater-item">
+             <img src="assets/images/test/dummy.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1"><div class="name_team tile-sections__link-subtitle"><br>  <span class="name">Radha R S </span> <br>Purchase Manager</div>
+           </div>
+                           <!-- </div> -->
+         </div>
                              <!-- <div class="col l2 m2 s2"></div> -->
-
-
                  <!-- </div> -->
                <!-- </div> -->
                <!-- <div class="center">
-
            </div> -->
          </div>
        </div>
-
-
     </div>
-
-
 </div>
-
 <div class="pushpam_border pushpam-form">
     <div class="message">
       <div class="container contact">
-        <p class="pushpam_text_white">Help us serve you better. Drop a message below and we will get back to you at the earliest.</p>
-        <form  id="myform"  name="registration" class="col s6 l12 m12">
+        <p class="pushpam_text_white message_head">Help us serve you better. Drop a message below and we will get back to you at the earliest.</p>
+        <form class="col s6 l12 m12">
           <div class="row">
             <div class="input-field col s2 m6 l6">
               <input id="first_name" type="text" class="validate">
@@ -176,7 +160,7 @@
           <div class="row">
             <div class="input-field col s6 m12 l12">
               <textarea id="textarea1" class="materialize-textarea" class="validate"></textarea>
-              <label for="textarea1">Interests/ Questions</label>
+              <label for="textarea1">Interests/Questions</label>
             </div>
           </div>
           <div class="row center">
@@ -186,7 +170,7 @@
       </div>
     </div>
   </div>
-  <div class="row center social_site_width">
+  <div class="row center social_link">
       <div class="col l12 m12 s12">
         <div class="col l3 m3 s3">
           <i class="fa fa-facebook fa-3x fa-fw"></i>
@@ -202,78 +186,26 @@
           </div>
         </div>
     </div>
-</body>
+    <div class="col l12 m12 s12 border_social">
+    </div>
+    <div id="modal1" class="modal">
+        <div class="modal-content">
+          <h4><img src="assets/images/icons/close.jpg" style="float:right;"></h4>
+          <div class="center-floater row">
+          <div class="col l1 m1 s1"><img src="assets/images/icons/left.png"></div>
+          <div class="col l4 m4 s4">
+            <div class="material-placeholder center-floater-item">
+            <img src="assets/images/test/m1.jpg" class="materialboxed responsive-img z-depth-2 initialized"  alt="Unsplashed background img 1">
+            </div>
+          </div>
+          <div class="col l6 m6 s6">  <div class="name_team tile-sections__link-subtitle"><br>
+              <span class="name"> Dr. Manjunath Reddy </span> <br> CEO </div></div>
+          <div class="col l1 m1 s1"><img src="assets/images/icons/right.png" style="float:right;"></div>
+        </div>
+        <!-- <div class="modal-footer">
+          <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Agree</a>
+        </div> -->
+    </div>
+  </div>
+
 <!-- <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script> -->
-<script>
-$(document).ready(function () {
-  console.log('Doc ready');
- $("#myform").validate({
-      // Specify the validation rules
-      rules: {
-      first_name:"required",
-      last_name:"required",
-      email:{
-        required:true,
-        email:true
-      },
-      company_name:{
-        required:true,
-        minlength:5
-      },
-      password_confirmation:{
-       required:true,
-       minlength:5,
-       equalTo:password
-      },
-
-           },
-
-           // Specify the validation error messages
-           messages: {
-             first_name:"please enter ur first_name",
-                    last_name:"please enter ur last name",
-                    password:{
-                      required:"please provide a password",
-                      minlength:"your password must be at least 5 characters long"
-                    },
-                    password_confirmation:{
-                      required:"please provide a password",
-                      minlength:"your password must be at least 5 characters long",
-                      equalTo:"please enter the same password as above"
-                    }
-           },
-
-           submitHandler: function(form) {
-
-             console.log('done');
-              //  form.submit();
-
-              $.ajax({
-                    type:"POST",
-                    url :"<?php echo site_url('user/register'); ?>",
-                    data :$('#myform').serialize(),
-                    success: function(response){
-                      var result = JSON.parse(response);
-                      result.status = 0;
-                      if(result.email == 1 ){ //email exists
-                          $('.text_validate').removeClass('hide');
-                        if(result.status == 0){//verification link has been sent already
-                          $('#report').text('Varification link is already sent for this email id');
-                        }else if(result.status == 1){ //verification link has been sent now
-                            $('#report').text('A varification link is sent to your email id');
-                        }else{
-                            $('#report').text('Email is already registered');
-                        }
-                        $('#report').addClass('text-danger');
-
-
-                      }
-                    }
-
-              });
-           }
-});
-
-
-});
-</script>

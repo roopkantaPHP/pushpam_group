@@ -64,14 +64,14 @@
       </div>
     <div class="para1 icon-block center row business-options stats">
         <div class="col l3 m3 s3">
-        <i class="material-icons">thumb_up</i><h5 class="happyuser">4865</h5><p>Happy User</p>
+        <i class="material-icons">thumb_up</i><h5 class="happyuser">4865</h5><p>Happy Users</p>
         </div>
 
         <div class="col l3 m3 s3">
         <i class="material-icons">perm_identity</i><h5 class="happyuser">4865</h5><p>Followers</p>
     </div>
     <div class="col l3 m3 s3">
-      <i class="material-icons">grade</i><h5 class="happyuser">4865</h5><p>Achievment</p>
+      <i class="material-icons">grade</i><h5 class="happyuser">4865</h5><p>Achievments</p>
     </div>
     <div class="col l3 m3 s3">
       <i class="material-icons">comment</i><h5 class="happyuser">4865</h5><p>Answered Questions </p>
@@ -168,7 +168,7 @@
           <div class="row">
             <div class="input-field col s6 m12 l12">
               <textarea id="textarea1" class="materialize-textarea" class="validate"></textarea>
-              <label for="textarea1">Message</label>
+              <label for="textarea1">Interests/Questions</label>
             </div>
           </div>
           <div class="row center">

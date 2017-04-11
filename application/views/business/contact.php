@@ -4,10 +4,10 @@
       <img class ="grey lighten-3 icon_underline" src="assets/images/main/underline.png" alt=""></img>
       <div class="">
         <p class="light team_font_size mobile_margin">
-        Pushpam Group, under Pushpam Foundation has consistently sought to give back to the society to the best of its ability. Till date, it has adopted several rural schools and has made a difference in the lives of thousands of children. Each member of the organization holds a Geld of medicine that is well within the reach of most students.
-      </p>
+          Pushpam Group, under Pushpam Foundation has consistently sought to give back to the society to the best of its ability. Till date, it has adopted several rural schools and has made a difference in the lives of thousands of children. Each member of the organization holds a Geld of medicine that is well within the reach of most students.
+        </p>
       </div>
-  </div>
+    </div>
   <div class="row para2 container icon-block center map">
     <div class="col l12 s12 m12">
       <div class="col l4 s4 m4">
@@ -31,7 +31,7 @@
           <br>Jayanagar, Bangalore 560041
           </p> -->
           <br>
-        <button class="map_button">View on map</button>
+          <button class="map_button">View on map</button>
         </div>
       </div>
       <div class="col l4 s4 m4">
@@ -48,17 +48,17 @@
       </div>
       <div  class="row para2 col l12 s12 m12">
       <div class="col l4 s4 m4">
-          <div class="material-placeholder">
-            <img src="assets/images/contact/uae.jpg" class="materialboxed responsive-img z-depth-1 initialized contact_img"  alt="Unsplashed background img 1"><p style="text-align:left !important;"><b>UAE</b><br>
+        <div class="material-placeholder">
+          <img src="assets/images/contact/uae.jpg" class="materialboxed responsive-img z-depth-1 initialized contact_img"  alt="Unsplashed background img 1"><p style="text-align:left !important;"><b>UAE</b><br>
             <!-- <span>#29 (old no. 416) </span>
             <br>
             <span>18th Main,4 T Block</span><br>Jayanagar, Bangalore 560041
           </p> -->
           <br>
           <button class="map_button">View on map</button>
-          </div>
         </div>
-        <div class="col l4 s4 m4">
+      </div>
+      <div class="col l4 s4 m4">
             <div class="material-placeholder">
               <img src="assets/images/contact/southafrica.jpg" class="materialboxed responsive-img z-depth-1 initialized contact_img"  alt="Unsplashed background img 1"><p style="text-align:left !important;"><b>South Africa</b><br>
               <!-- <span><strong>#29 (old no. 416) </strong></span>
@@ -99,7 +99,7 @@
               <div class="row">
                 <div class="input-field col s6 m12 l12">
                   <textarea id="textarea1" class="materialize-textarea" class="validate"></textarea>
-                  <label for="textarea1">Message</label>
+                  <label for="textarea1">Interests/Questions</label>
                 </div>
               </div>
               <div class="row center">

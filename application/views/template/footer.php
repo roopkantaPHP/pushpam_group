@@ -1,4 +1,3 @@
-
   <footer class="page-footer">
     <div class="container">
       <div class="row">
@@ -16,11 +15,14 @@
               <?php if($page == 7) {?>
               <strong>Careers:</strong><li class="pushpam_text_green">hrd@pushpamgroup.in</li>
               <?php }?>
-          </ul>
-        </div>
-        <div class="col l4 m4 s12">
-          <h5> <b> Menu </b> <div class="small-title-footer text-center company__offices-title">
-           </div></h5>
+            </ul>
+          </div>
+          <div class="col l4 m4 s12">
+            <h5>
+              <b> Menu </b>
+              <div class="small-title-footer text-center company__offices-title">
+              </div>
+            </h5>
           <ul>
             <li><label><a href="<?php echo base_url(); ?>" class="pushpam_text_green">Home</a></label></li>
             <li><label><a href="<?php echo base_url("about_us.html"); ?>" class="pushpam_text_green">About Us</a></label></li>
@@ -48,7 +50,7 @@
   <script>
   $(document).ready(function(){
     // $('.slides').css({"height":"520px"});
-    $('#modal1').modal();
+  $('#modal1').modal();
       $('.parallax').parallax();
       $('ul.tabs').tabs('select_tab', 'tab_id');
       $('.slider').slider();
@@ -59,13 +61,10 @@
   				console.log(e);
   			}
   		});
-  $('.my_team').click(function(){
-    $('#modal1').modal('open');
+    $('.my_team').click(function(){
+      $('#modal1').modal('open');
+    });
   });
-
-
-  });
-
   </script>
 </body>
 </html>
