@@ -63,5 +63,5 @@
     </div>
   </nav>
 </div>
-<title>Pushpam group</title>
+<title>Pushpam Group</title>
 </head>
