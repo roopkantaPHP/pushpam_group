@@ -99,7 +99,7 @@
               <div class="row">
                 <div class="input-field col s6 m12 l12">
                   <textarea id="textarea1" class="materialize-textarea" class="validate"></textarea>
-                  <label for="textarea1">Textarea</label>
+                  <label for="textarea1">Message</label>
                 </div>
               </div>
               <div class="row center">
